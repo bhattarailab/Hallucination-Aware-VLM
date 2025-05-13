@@ -14,7 +14,7 @@
 ## About dataset ###
 We used publicly available [Kvasir-v2](https://datasets.simula.no/kvasir/) images to generate medical reports using ChatGPT-4o, which were then reviewed by experts to identify and correct medical hallucinations. Our dataset not only provides the corrected responses of the vision-language model (VLM) but also includes sentence-level hallucination tags, offering additional insights into how the VLM hallucinates.
 
-![Data annotation pipeline](images/data_pipeline_with_stats.png)
+![Data annotation pipeline](Images/data_pipeline_with_stats.png)
 
 
 
@@ -35,16 +35,16 @@ with ChatGPT-4o handling synonyms and similar phrasing.
 
 Instead of instruction finetuning VLM models with the objective of generating ground-truth texts, we have used instruction finetuning to first detect hallucinated sentences in the default pretrained VLM response, followed by correcting the response. We used standard LORA for parameter efficient finetuning.
 
-![Hal-aware finetuning](images/hal-aware.png)
+![Hal-aware finetuning](Images/hal-aware.png)
 
 
 ## Benchmarks ##
 
 We evaluate our hallucination-aware fine-tuning strategy across various open-source VLMs and consistently demonstrate improved performance across multiple evaluation metrics.
 
-![Benchmark Table](images/MICCAI_benchmark_table.png)
+![Benchmark Table](Images/MICCAI_benchmark_table.png)
 
-![Fine-grained results](images/category_comp.png)
+![Fine-grained results](Images/category_comp.png)
 
 
 
