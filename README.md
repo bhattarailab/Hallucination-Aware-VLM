@@ -1,4 +1,4 @@
-# Hallucination Aware Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision Language Models #
+# Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision Language Models #
 
 📄**Paper Available: https://arxiv.org/pdf/2505.07001**
 🎉 **Accepted to MICCAI 2025 (Top 9% of submissions)**  
