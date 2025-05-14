@@ -5,7 +5,7 @@
 
 
 ## 🧠 Key Contributions ##
-* Multimodal image-text GI dataset, with VLM-generated descriptive responses, expert-labeled tags identifying hallucinated sentences, and their corresponding corrections.
+* Multimodal image-text Gastrointestinal (GI) dataset, with VLM-generated descriptive responses, expert-labeled tags identifying hallucinated sentences, and their corresponding corrections.
 
 * Extensive evaluation of state-of-the-art VLMs using both existing and proposed LLM-assisted evaluation metrics.
 
