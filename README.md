@@ -19,9 +19,11 @@ In summary it includes:
 - Expert annotations
   - Sentence-level hallucination tags  
   - Factual corrections
+
 ![Data annotation pipeline](Images/data_pipeline_with_stats.png)
 
 
+The dataset can be visualized and annotated using this [Image Caption Annotation](https://github.com/bhattarailab/image-caption-annotation) tool.
 
 ## 📏 About Evaluation Metircs ##
 
