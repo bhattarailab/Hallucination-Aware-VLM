@@ -88,7 +88,7 @@ The evaluation scripts are located in the `eval_scripts/` directory. The evaluat
 ### 📝 QA-Based Evaluation (QAAS)
 
 ```mermaid
-flowchart TD
+flowchart LR
     classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
@@ -117,7 +117,7 @@ flowchart TD
 ### 📝 Report Similarity Evaluation (R-Sim)
 
 ```mermaid
-flowchart TD
+flowchart LR
     classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
