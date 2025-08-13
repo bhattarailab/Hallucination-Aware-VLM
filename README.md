@@ -93,29 +93,24 @@ The evaluation scripts are located in the `eval_scripts/` directory. The evaluat
 
 ```mermaid
 flowchart TD
-    classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
-    classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
-    classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
+    classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:2px,color:#000
+    classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:2px,color:#000
+    classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:2px,color:#000
 
-    A["📄 Input<br/>Descriptive Texts<br/>(Paragraph/Caption)"]
-    B["🔧 caption2vqa.py<br/>Extract QA Pairs"]
-    C["⚙️ parse_vqa.py<br/>Normalize Answers"]
-    D["📊 evaluate_vqa.py<br/>Compute QAAS"]
-    E["📈 QAAS Score<br/>(Accuracy)"]
+    A["📄 Input Texts"]
+    B["🔧 caption2vqa.py"]
+    C["⚙️ parse_vqa.py"]
+    D["📊 evaluate_vqa.py"]
+    E["📈 QAAS Score"]
 
     class A inputStyle
     class B,C,D scriptStyle
     class E outputStyle
 
-    A -->|"VLM Generated<br/>Medical Reports"| B
-    B -->|"Raw Q&A Pairs<br/>(12 questions)"| C
-    C -->|"Normalized<br/>(Handle synonyms)"| D
-    D -->|"Compare with<br/>Ground Truth"| E
-
-    linkStyle 0 stroke:#1976D2,stroke-width:3px
-    linkStyle 1 stroke:#F57C00,stroke-width:3px
-    linkStyle 2 stroke:#F57C00,stroke-width:3px
-    linkStyle 3 stroke:#388E3C,stroke-width:3px
+    A --> B
+    B --> C
+    C --> D
+    D --> E
 ```
 
 </div>
@@ -126,23 +121,20 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
-    classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
-    classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
+    classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:2px,color:#000
+    classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:2px,color:#000
+    classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:2px,color:#000
 
-    A2["📄 Input<br/>Descriptive Texts<br/>(Paragraph/Caption)"]
-    B2["🔧 evaluate_caption.py<br/>Semantic Comparison"]
-    C2["📈 R-Sim Score<br/>(1-5 Scale)"]
+    A2["📄 Input Texts"]
+    B2["🔧 evaluate_caption.py"]
+    C2["📈 R-Sim Score"]
 
     class A2 inputStyle
     class B2 scriptStyle
     class C2 outputStyle
 
-    A2 -->|"VLM Generated<br/>Medical Reports"| B2
-    B2 -->|"GPT-4o Analysis<br/>Semantic Similarity"| C2
-
-    linkStyle 0 stroke:#1976D2,stroke-width:3px
-    linkStyle 1 stroke:#388E3C,stroke-width:3px
+    A2 --> B2
+    B2 --> C2
 ```
 
 </div>
