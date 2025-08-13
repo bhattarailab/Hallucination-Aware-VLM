@@ -1,0 +1,1052 @@
+{
+    "389c76a0-5206-4a9e-8904-754938f84146.jpg": {
+        "original_text": "An image of pylorus. The abnormality is blue-green in color, and occupies a central position in the image. An anatomical landmark is visible, characterized by dark blue coloring. No polyps, instruments, signs of inflammation, infection, bleeding, or foreign bodies are present in the image.",
+        "corrections": "An image of colon. The abnormality is blue-green in color, and occupies a central position in the image. An anatomical landmark is visible, characterized by dark blue coloring. No polyps, instruments, signs of inflammation, infection, bleeding, or foreign bodies are present in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "20-105": {
+                "text": "The abnormality is blue-green in color, and occupies a central position in the image.",
+                "start": 20,
+                "end": 105,
+                "type": "correct"
+            },
+            "106-177": {
+                "text": "An anatomical landmark is visible, characterized by dark blue coloring.",
+                "start": 106,
+                "end": 177,
+                "type": "correct"
+            },
+            "178-289": {
+                "text": "No polyps, instruments, signs of inflammation, infection, bleeding, or foreign bodies are present in the image.",
+                "start": 178,
+                "end": 289,
+                "type": "correct"
+            }
+        }
+    },
+    "d26a11ac-fe40-4e87-8c0c-1f5087feb768.jpg": {
+        "original_text": "An image of cecum. Anatomical landmarks are visible, and there are no instruments or signs of inflammation, bleeding, foreign bodies, or infection.",
+        "corrections": "An image of cecum. Anatomical landmarks are visible, one polyp located centrally, and there are no instruments or signs of inflammation, bleeding, foreign bodies, or infection.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-147": {
+                "text": "Anatomical landmarks are visible, and there are no instruments or signs of inflammation, bleeding, foreign bodies, or infection.",
+                "start": 19,
+                "end": 147,
+                "type": "incorrect"
+            }
+        }
+    },
+    "5f3d6ed3-dca1-4fb0-a0e3-fd53fffa4cff.jpg": {
+        "original_text": "An image of cecum. An abnormality is present and is white in color. The surrounding tissue appears reddish-pink, indicating possible inflammation around the abnormality. There is no sign of polyps, bleeding, foreign bodies, anatomical landmarks, or instruments.",
+        "corrections": "An image of colon. An abnormality is present and is white in color. The surrounding tissue appears reddish-pink, indicating possible inflammation around the abnormality. There is one polyp, and minor bleeding in the inage. No foreign bodies, or instruments. The anatomical landmark appears pink.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "start": 0,
+                "end": 17,
+                "type": "incorrect"
+            },
+            "19-66": {
+                "text": "An abnormality is present and is white in color",
+                "start": 19,
+                "end": 66,
+                "type": "correct"
+            },
+            "67-110": {
+                "text": "The surrounding tissue appears reddish-pink",
+                "start": 67,
+                "end": 110,
+                "type": "correct"
+            },
+            "111-169": {
+                "text": ", indicating possible inflammation around the abnormality.",
+                "start": 111,
+                "end": 169,
+                "type": "correct"
+            },
+            "170-261": {
+                "text": "There is no sign of polyps, bleeding, foreign bodies, anatomical landmarks, or instruments.",
+                "start": 170,
+                "end": 261,
+                "type": "incorrect"
+            }
+        }
+    },
+    "d7594e2b-93d2-47cb-8e51-82f3804659b7.jpg": {
+        "original_text": "An image of cecum. No specific anatomical landmark is highlighted, but the abnormality is clearly visible in the center. Multiple polyps are present. There are no visible instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "corrections": "An image of cecum. No specific anatomical landmark is highlighted, but the abnormality is clearly visible in the center. Multiple polyps are present. There are no visible instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-120": {
+                "text": "No specific anatomical landmark is highlighted, but the abnormality is clearly visible in the center.",
+                "start": 19,
+                "end": 120,
+                "type": "correct"
+            },
+            "121-149": {
+                "text": "Multiple polyps are present.",
+                "start": 121,
+                "end": 149,
+                "type": "correct"
+            },
+            "150-246": {
+                "text": "There are no visible instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+                "start": 150,
+                "end": 246,
+                "type": "correct"
+            }
+        }
+    },
+    "e05779e5-50c8-4340-886c-72e46782ce79.jpg": {
+        "original_text": "An image of cecum. Beige-pink colored mucosal surfaces serve as anatomical landmarks. No instruments, inflammation, bleeding, infection, or foreign bodies are present.",
+        "corrections": "An image of cecum. The anatomical landmark appears pink  No instruments, inflammation, bleeding, infection, or foreign bodies are present. There is one polyp present in the center of the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-85": {
+                "text": "Beige-pink colored mucosal surfaces serve as anatomical landmarks.",
+                "start": 19,
+                "end": 85,
+                "type": "incorrect"
+            },
+            "85-166": {
+                "text": "No instruments, inflammation, bleeding, infection, or foreign bodies are present.",
+                "start": 85,
+                "end": 166,
+                "type": "correct"
+            }
+        }
+    },
+    "3d6522a9-2ad7-41cb-91e6-cc4fe56189f5.jpg": {
+        "original_text": "An image of cecum. The abnormality, a small dark spot, is located towards the center. The anatomical structures are normal in color. No polyps or instruments are present. Mild inflammation is visible but there are no signs of bleeding, foreign bodies, or infection.",
+        "corrections": "An image of cecum. There is a polyp, it located in the right of the image. The anatomical structures are normal in color.There is one polyp, but no instruments are present. Mild inflammation is visible but there are no signs of bleeding, foreign bodies, or infection.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-85": {
+                "text": "The abnormality, a small dark spot, is located towards the center.",
+                "start": 19,
+                "end": 85,
+                "type": "incorrect"
+            },
+            "86-132": {
+                "text": "The anatomical structures are normal in color.",
+                "start": 86,
+                "end": 132,
+                "type": "correct"
+            },
+            "133-170": {
+                "text": "No polyps or instruments are present.",
+                "start": 133,
+                "end": 170,
+                "type": "incorrect"
+            },
+            "171-265": {
+                "text": "Mild inflammation is visible but there are no signs of bleeding, foreign bodies, or infection.",
+                "start": 171,
+                "end": 265,
+                "type": "correct"
+            }
+        }
+    },
+    "98ecb81e-5a43-4a3b-96fd-03a02b715764.jpg": {
+        "original_text": "An image of z-line. It shows a light-colored abnormality at the center, indicative of a cluster of polyps. There is no evident landmark or instrument. There are signs of inflammation and possible bleeding, but no foreign bodies or clear infection signs.",
+        "corrections": "An image of colon. It shows a light-colored abnormality at the center, indicative of a cluster of polyps. There is no evident landmark or instrument. There are signs of inflammation and possible bleeding, but no foreign bodies or clear infection signs.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "20-106": {
+                "text": "It shows a light-colored abnormality at the center, indicative of a cluster of polyps.",
+                "start": 20,
+                "end": 106,
+                "type": "correct"
+            },
+            "106-149": {
+                "text": "There is no evident landmark or instrument.",
+                "start": 106,
+                "end": 149,
+                "type": "correct"
+            },
+            "151-253": {
+                "text": "There are signs of inflammation and possible bleeding, but no foreign bodies or clear infection signs.",
+                "start": 151,
+                "end": 253,
+                "type": "correct"
+            }
+        }
+    },
+    "50210199-bd31-4b70-ab68-cbf64a47c871.jpg": {
+        "original_text": "An image of z-line. The anatomical landmark is the colon, appearing as reddish tissue. There is one visible polyp in the center of the image. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "corrections": "An image of anormal colon. The anatomical landmark is the colon, appearing as reddish tissue. There is one visible polyp in the center of the image. No instruments, bleeding, foreign bodies are observed. There are signs of inflammation and infection.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "20-86": {
+                "text": "The anatomical landmark is the colon, appearing as reddish tissue.",
+                "start": 20,
+                "end": 86,
+                "type": "correct"
+            },
+            "87-141": {
+                "text": "There is one visible polyp in the center of the image.",
+                "start": 87,
+                "end": 141,
+                "type": "correct"
+            },
+            "142-233": {
+                "text": "No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+                "start": 142,
+                "end": 233,
+                "type": "incorrect"
+            }
+        }
+    },
+    "7a052613-d4c4-4645-9b5f-190cd5779161.jpg": {
+        "original_text": "An image of pylorus. No polyps, instruments, inflammation, bleeding, foreign bodies, signs of infection, or additional anatomical landmarks are observed.",
+        "corrections": "An image of cecum . There is a polyp appears to be light blue located centrally  , There are no instruments, inflammation, bleeding, foreign bodies, signs of infection, or additional anatomical landmarks are observed.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "21-153": {
+                "text": "No polyps, instruments, inflammation, bleeding, foreign bodies, signs of infection, or additional anatomical landmarks are observed.",
+                "start": 21,
+                "end": 153,
+                "type": "incorrect"
+            }
+        }
+    },
+    "512ee76f-9cfd-4af3-ab7f-1bb442046162.jpg": {
+        "original_text": "An image of pylorus. The abnormality is a white-colored polyp located centrally. There is one polyp present. Anatomical landmarks are visible. No instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "corrections": "An image of cecum. The abnormality is a white-colored polyp located centrally. Anatomical landmarks are visible. No instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "21-80": {
+                "text": "The abnormality is a white-colored polyp located centrally.",
+                "start": 21,
+                "end": 80,
+                "type": "correct"
+            },
+            "80-106": {
+                "text": "There is one polyp present",
+                "start": 80,
+                "end": 106,
+                "type": "incorrect"
+            },
+            "109-142": {
+                "text": "Anatomical landmarks are visible.",
+                "start": 109,
+                "end": 142,
+                "type": "correct"
+            },
+            "143-255": {
+                "text": "No instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+                "start": 143,
+                "end": 255,
+                "type": "correct"
+            }
+        }
+    },
+    "7d743ce9-2624-4c82-8f03-f4c0851683d3.jpg": {
+        "original_text": "An image of pylorus. There is a blue abnormality present, and a polyp is seen. The polyp is located centrally, but only one polyp is observed. The anatomical landmarks and no inflammation, bleeding, foreign bodies, or signs of infection are noted. No instruments are visible.",
+        "corrections": "An image of cecum. There is a blue abnormality present, and a polyp is seen. The polyp is located below of the image, but only one polyp is observed. The anatomical landmarks and no inflammation, bleeding, foreign bodies, or signs of infection are noted. No instruments are visible.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "20-77": {
+                "text": "There is a blue abnormality present, and a polyp is seen.",
+                "start": 20,
+                "end": 77,
+                "type": "correct"
+            },
+            "79-142": {
+                "text": "The polyp is located centrally, but only one polyp is observed.",
+                "start": 79,
+                "end": 142,
+                "type": "incorrect"
+            },
+            "142-246": {
+                "text": "The anatomical landmarks and no inflammation, bleeding, foreign bodies, or signs of infection are noted.",
+                "start": 142,
+                "end": 246,
+                "type": "correct"
+            },
+            "247-274": {
+                "text": "No instruments are visible.",
+                "start": 247,
+                "end": 274,
+                "type": "correct"
+            }
+        }
+    },
+    "927bb7b7-7d03-475e-abde-3d1f4b691f7e.jpg": {
+        "original_text": "An image of cecum. An abnormality is present and is of a light beige color. The anatomical landmark appears pink. There is one polyp present in the lower center of the image. There are no instruments, signs of inflammation, bleeding, infection, or any foreign bodies visible in the image.",
+        "corrections": "An image of cecum. An abnormality is present and is of a light beige color. The anatomical landmark appears pink. There is one polyp present in the lower center of the image. There are no instruments, signs of inflammation, bleeding, infection, or any foreign bodies visible in the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "18-74": {
+                "text": "An abnormality is present and is of a light beige color.",
+                "start": 18,
+                "end": 74,
+                "type": "correct"
+            },
+            "75-112": {
+                "text": "The anatomical landmark appears pink.",
+                "start": 75,
+                "end": 112,
+                "type": "correct"
+            },
+            "114-174": {
+                "text": "There is one polyp present in the lower center of the image.",
+                "start": 114,
+                "end": 174,
+                "type": "correct"
+            },
+            "174-287": {
+                "text": "There are no instruments, signs of inflammation, bleeding, infection, or any foreign bodies visible in the image.",
+                "start": 174,
+                "end": 287,
+                "type": "correct"
+            }
+        }
+    },
+    "1b03c9ad-70b6-484f-b342-8614d5062e34.jpg": {
+        "original_text": "An image of cecum. Anatamical landmarks appear more reddish, and no instruments, inflammation, bleeding, foreign bodies, or signs of infections are present. The polyps are located in the lower part of the image.",
+        "corrections": "An image of cecum. Anatamical landmarks appear more reddish, sings of bleeding are preseant and no instruments, inflammation, foreign bodies, or signs of infections are present. The polyps are located in the lower part of the image.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "start": 0,
+                "end": 17,
+                "type": "correct"
+            },
+            "19-60": {
+                "text": "Anatamical landmarks appear more reddish,",
+                "start": 19,
+                "end": 60,
+                "type": "correct"
+            },
+            "60-154": {
+                "text": "and no instruments, inflammation, bleeding, foreign bodies, or signs of infections are present",
+                "start": 60,
+                "end": 154,
+                "type": "incorrect"
+            },
+            "157-211": {
+                "text": "The polyps are located in the lower part of the image.",
+                "start": 157,
+                "end": 211,
+                "type": "correct"
+            }
+        }
+    },
+    "e6c793fe-0e40-4597-87b5-d9733cbaf3de.jpg": {
+        "original_text": "An image of cecum. The polyp is located centrally in the image, with no instruments, inflammation, bleeding, foreign bodies, or signs of infection present.",
+        "corrections": "An image of cecum. The polyp is located centrally in the image, with no instruments, inflammation, bleeding, foreign bodies, or signs of infection present.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-155": {
+                "text": "The polyp is located centrally in the image, with no instruments, inflammation, bleeding, foreign bodies, or signs of infection present.",
+                "start": 19,
+                "end": 155,
+                "type": "correct"
+            }
+        }
+    },
+    "0f4eaa7a-c074-48c1-b01f-9117b94e1938.jpg": {
+        "original_text": "An image of cecum. The anatomical structure, likely part of the colon, is pinkish, and the abnormality is located on the right side. There are no instruments, foreign bodies, or signs of infection evident in the image.",
+        "corrections": "An image of cecum. The anatomical structure, likely part of the cecum, is pinkish, and the abnormality, which is polyp, is located on the left side. There are no instruments, foreign bodies, or signs of infection evident in the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-131": {
+                "text": "The anatomical structure, likely part of the colon, is pinkish, and the abnormality is located on the right side",
+                "start": 19,
+                "end": 131,
+                "type": "incorrect"
+            },
+            "82-130": {
+                "text": "and the abnormality is located on the right side",
+                "start": 82,
+                "end": 130,
+                "type": "incorrect"
+            },
+            "133-218": {
+                "text": "There are no instruments, foreign bodies, or signs of infection evident in the image.",
+                "start": 133,
+                "end": 218,
+                "type": "correct"
+            }
+        }
+    },
+    "f9a74476-8623-4a6e-8b21-c11a70ae8ab5.jpg": {
+        "original_text": "An image of pylorus. An abnormality can be observed, characterized by a blue coloration. The image also shows areas with normal anatomical tissue, colored pink. No polyps or foreign bodies are evident, but there are signs of bleeding and possible inflammation. No instruments or signs of infection are visible.",
+        "corrections": "An image of cecum. An abnormality can be observed, characterized by a blue coloration. The image also shows areas with normal anatomical tissue, colored pink. Many polyps visibler, but there are signs of bleeding and possible inflammation. No instruments, foreign bodies, or signs of infection are visible.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "21-88": {
+                "text": "An abnormality can be observed, characterized by a blue coloration.",
+                "start": 21,
+                "end": 88,
+                "type": "correct"
+            },
+            "89-159": {
+                "text": "The image also shows areas with normal anatomical tissue, colored pink",
+                "start": 89,
+                "end": 159,
+                "type": "correct"
+            },
+            "161-260": {
+                "text": "No polyps or foreign bodies are evident, but there are signs of bleeding and possible inflammation.",
+                "start": 161,
+                "end": 260,
+                "type": "incorrect"
+            },
+            "261-310": {
+                "text": "No instruments or signs of infection are visible.",
+                "start": 261,
+                "end": 310,
+                "type": "correct"
+            }
+        }
+    },
+    "73932b1b-fd8d-48bd-a788-efd3b7f7409b.jpg": {
+        "original_text": "An image of cecum. The abnormality, likely a polyp, is blue and located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed. The anatomical landmark in brown is visible in the background. There is one polyp present in the image.",
+        "corrections": "An image of cecum. The abnormality, likely a polyp, is blue and located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed. The anatomical landmark in pink is visible in the background. There is one polyp present in the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-82": {
+                "text": "The abnormality, likely a polyp, is blue and located centrally.",
+                "start": 19,
+                "end": 82,
+                "type": "correct"
+            },
+            "83-174": {
+                "text": "No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed.",
+                "start": 83,
+                "end": 174,
+                "type": "correct"
+            },
+            "175-237": {
+                "text": "The anatomical landmark in brown is visible in the background.",
+                "start": 175,
+                "end": 237,
+                "type": "incorrect"
+            },
+            "238-278": {
+                "text": "There is one polyp present in the image.",
+                "start": 238,
+                "end": 278,
+                "type": "correct"
+            }
+        }
+    },
+    "a5cf92b3-ddaf-411b-ac9e-391a12469325.jpg": {
+        "original_text": "An image of pylorus. The abnormality, if present, is not clearly identifiable while the anatomical landmark is blue. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "corrections": "An image of colon. The abnormality, if present, is not clearly identifiable while the anatomical landmark is blue. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "20-115": {
+                "text": "The abnormality, if present, is not clearly identifiable while the anatomical landmark is blue.",
+                "start": 20,
+                "end": 115,
+                "type": "correct"
+            },
+            "116-233": {
+                "text": "There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+                "start": 116,
+                "end": 233,
+                "type": "correct"
+            }
+        }
+    },
+    "b8ba70d6-bfa4-4ac1-9042-7b7cdfccc55b.jpg": {
+        "original_text": "An image of pylorus. A notable anatomical landmark is observed, and there are no visible polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection. The abnormality is prominently located in the center of the image.",
+        "corrections": "An image of cecum. A notable anatomical landmark is observed, and there is one visible polyp , No instruments, no signs of inflammation, no bleeding,no foreign bodies, or infection. The abnormality is prominently located in the center of the image.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "21-171": {
+                "text": "A notable anatomical landmark is observed, and there are no visible polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection",
+                "start": 21,
+                "end": 171,
+                "type": "incorrect"
+            },
+            "172-238": {
+                "text": "The abnormality is prominently located in the center of the image.",
+                "start": 172,
+                "end": 238,
+                "type": "correct"
+            }
+        }
+    },
+    "7efed3ac-abef-453f-a526-5c5b9c19151d.jpg": {
+        "original_text": "An image of cecum. There is only one polyp observed located centrally. Inflammations and signs of bleeding are present, but no instruments or foreign bodies are observed. Anatomical landmarks are visible, and there are no clear signs of infection.",
+        "corrections": "An image of cecum. There is only one polyp observed located centrally. No Inflammations or signs of bleeding are present,  no instruments or foreign bodies are observed. Anatomical landmarks are visible, and there are no clear signs of infection.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "start": 0,
+                "end": 17,
+                "type": "correct"
+            },
+            "18-69": {
+                "text": "There is only one polyp observed located centrally.",
+                "start": 18,
+                "end": 69,
+                "type": "correct"
+            },
+            "71-169": {
+                "text": "Inflammations and signs of bleeding are present, but no instruments or foreign bodies are observed",
+                "start": 71,
+                "end": 169,
+                "type": "incorrect"
+            },
+            "171-247": {
+                "text": "Anatomical landmarks are visible, and there are no clear signs of infection.",
+                "start": 171,
+                "end": 247,
+                "type": "correct"
+            }
+        }
+    },
+    "5d287826-e12a-4ca4-b949-9d0d491d1b34.jpg": {
+        "original_text": "An image of cecum. There is a blue abnormality and a reddish anatomical landmark. One polyp is present, located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident.",
+        "corrections": "An image of cecum. There is a blue abnormality and a reddish anatomical landmark. One polyp is present, located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "start": 0,
+                "end": 17,
+                "type": "correct"
+            },
+            "19-81": {
+                "text": "There is a blue abnormality and a reddish anatomical landmark.",
+                "start": 19,
+                "end": 81,
+                "type": "correct"
+            },
+            "82-122": {
+                "text": "One polyp is present, located centrally.",
+                "start": 82,
+                "end": 122,
+                "type": "correct"
+            },
+            "123-213": {
+                "text": "No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident.",
+                "start": 123,
+                "end": 213,
+                "type": "correct"
+            }
+        }
+    },
+    "555ed1c9-b57e-4110-a14c-c5f17c344bfe.jpg": {
+        "original_text": "An image of cecum. There is one polyp, blue in color, present in the center. The anatomical landmark is pink in color and located near the periphery. There are no signs of inflammation, bleeding, infection, or foreign bodies, and no instruments are present.",
+        "corrections": "An image of colon. There is one polyp, blue in color, present in the center. The anatomical landmark is pink in color and located near the periphery. There are no signs of inflammation, bleeding, infection, or foreign bodies, and no instruments are present.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "incorrect"
+            },
+            "19-76": {
+                "text": "There is one polyp, blue in color, present in the center.",
+                "start": 19,
+                "end": 76,
+                "type": "correct"
+            },
+            "77-149": {
+                "text": "The anatomical landmark is pink in color and located near the periphery.",
+                "start": 77,
+                "end": 149,
+                "type": "correct"
+            },
+            "150-257": {
+                "text": "There are no signs of inflammation, bleeding, infection, or foreign bodies, and no instruments are present.",
+                "start": 150,
+                "end": 257,
+                "type": "correct"
+            }
+        }
+    },
+    "a70fecce-0464-4144-80d2-052ae4e98257.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark is not distinctly identifiable. Multiple polyps are present. There are indications of inflammation and signs of bleeding in the image. No instruments, foreign bodies, or clear signs of infection are visible.",
+        "corrections": "An image of cecum. The anatomical landmark is not distinctly identifiable. One polyp is present and located centrally. There are indications of inflammation and signs of bleeding in the image. No instruments, foreign bodies, or clear signs of infection are visible.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-74": {
+                "text": "The anatomical landmark is not distinctly identifiable.",
+                "start": 19,
+                "end": 74,
+                "type": "correct"
+            },
+            "75-103": {
+                "text": "Multiple polyps are present.",
+                "start": 75,
+                "end": 103,
+                "type": "incorrect"
+            },
+            "104-177": {
+                "text": "There are indications of inflammation and signs of bleeding in the image.",
+                "start": 104,
+                "end": 177,
+                "type": "correct"
+            },
+            "178-250": {
+                "text": "No instruments, foreign bodies, or clear signs of infection are visible.",
+                "start": 178,
+                "end": 250,
+                "type": "correct"
+            }
+        }
+    },
+    "0ecfc13c-9213-4738-9365-ca94a5dd3eed.jpg": {
+        "original_text": "An image of z-line. No polyps, instruments, or foreign bodies are present. The anatomical landmarks appear normal, with no visible signs of inflammation, infection, or bleeding.",
+        "corrections": "An image of cecum. There is one  instrument appers in lower part of the image. No polyps, the anatomical landmarks appear blueish, with no visible signs of inflammation, infection, or bleeding.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "19-72": {
+                "text": "No polyps, instruments, or foreign bodies are present",
+                "start": 19,
+                "end": 72,
+                "type": "incorrect"
+            },
+            "74-176": {
+                "text": "The anatomical landmarks appear normal, with no visible signs of inflammation, infection, or bleeding.",
+                "start": 74,
+                "end": 176,
+                "type": "incorrect"
+            }
+        }
+    },
+    "e700910a-7e00-44bc-8453-0d09372ad5c9.jpg": {
+        "original_text": "An image of z-line. An abnormality is present and is colored white. There are no visible anatomical landmarks, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or signs of infection. The abnormality is centrally located in the image.",
+        "corrections": "An image of colon. An abnormality is present and is colored white. There are no visible anatomical landmarks, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or signs of infection. The abnormality is centrally located in the image. There is one polyp present in the center of the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of z-line",
+                "start": 0,
+                "end": 18,
+                "type": "incorrect"
+            },
+            "19-66": {
+                "text": "An abnormality is present and is colored white.",
+                "start": 19,
+                "end": 66,
+                "type": "correct"
+            },
+            "68-215": {
+                "text": "There are no visible anatomical landmarks, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or signs of infection.",
+                "start": 68,
+                "end": 215,
+                "type": "incorrect"
+            },
+            "216-266": {
+                "text": "The abnormality is centrally located in the image.",
+                "start": 216,
+                "end": 266,
+                "type": "correct"
+            }
+        }
+    },
+    "1a0e5a49-c3d9-47be-bc09-25bbe93cfa57.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark is the blue-colored colon mucosa. There is one polyp present located centrally. No instruments or foreign bodies are visible, and there are no signs of inflammation, bleeding, or infection.",
+        "corrections": "An image of cecum. The anatomical landmark is the blue-colored colon mucosa. There is one polyp present located centrally. No instruments or foreign bodies are visible, and there are no signs of inflammation, bleeding, or infection.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-76": {
+                "text": "The anatomical landmark is the blue-colored colon mucosa.",
+                "start": 19,
+                "end": 76,
+                "type": "correct"
+            },
+            "77-122": {
+                "text": "There is one polyp present located centrally.",
+                "start": 77,
+                "end": 122,
+                "type": "correct"
+            },
+            "123-232": {
+                "text": "No instruments or foreign bodies are visible, and there are no signs of inflammation, bleeding, or infection.",
+                "start": 123,
+                "end": 232,
+                "type": "correct"
+            }
+        }
+    },
+    "0a693b92-89c9-48ea-9ad8-dc1d2f84aaca.jpg": {
+        "original_text": "An image of cecum. A blue abnormality is present in the image. The anatomical landmark appears pink. There's one polyp present in the center-right. No signs of inflammation, bleeding, infection, or foreign bodies are visible. There are no instruments present in the image.",
+        "corrections": "An image of cecum. A blue abnormality is present in the image. The anatomical landmark appears pink. There's one polyp present in the center-right. No signs of inflammation, bleeding, infection, or foreign bodies are visible. There are no instruments present in the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-62": {
+                "text": "A blue abnormality is present in the image.",
+                "start": 19,
+                "end": 62,
+                "type": "correct"
+            },
+            "63-100": {
+                "text": "The anatomical landmark appears pink.",
+                "start": 63,
+                "end": 100,
+                "type": "correct"
+            },
+            "101-147": {
+                "text": "There's one polyp present in the center-right.",
+                "start": 101,
+                "end": 147,
+                "type": "correct"
+            },
+            "148-225": {
+                "text": "No signs of inflammation, bleeding, infection, or foreign bodies are visible.",
+                "start": 148,
+                "end": 225,
+                "type": "correct"
+            },
+            "226-272": {
+                "text": "There are no instruments present in the image.",
+                "start": 226,
+                "end": 272,
+                "type": "correct"
+            }
+        }
+    },
+    "e7e5f165-2c56-4333-82aa-4fc8045e8e1c.jpg": {
+        "original_text": "An image of z-line. There is a blue-colored substance likely used for staining, but no visible abnormalities such as polyps or foreign bodies. The anatomical landmark is the intestinal lining, which is reddish-pink, indicating no signs of inflammation, infection, or bleeding. No instruments are visible in the image.",
+        "corrections": "An image of cecum. There is a blue-colored substance likely used for staining,there is one polyp in the upper section of the image. The anatomical landmark is the cecum, which is reddish-pink, indicating no signs of inflammation, infection, or bleeding. No instruments are visible in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "20-142": {
+                "text": "There is a blue-colored substance likely used for staining, but no visible abnormalities such as polyps or foreign bodies.",
+                "start": 20,
+                "end": 142,
+                "type": "incorrect"
+            },
+            "143-276": {
+                "text": "The anatomical landmark is the intestinal lining, which is reddish-pink, indicating no signs of inflammation, infection, or bleeding.",
+                "start": 143,
+                "end": 276,
+                "type": "incorrect"
+            },
+            "276-316": {
+                "text": "No instruments are visible in the image.",
+                "start": 276,
+                "end": 316,
+                "type": "correct"
+            }
+        }
+    },
+    "a0685864-7196-4ce9-9c35-2ee706ab181e.jpg": {
+        "original_text": "An image of cecum. An abnormality colored yellow is present in the center. The anatomical tissue surrounding the area is light pink and blue. No polyps or instruments are visible, and there are signs of inflammation but no evidence of bleeding, infection, or foreign bodies.",
+        "corrections": "An image of cecum. An abnormality colored yellow is present in the center. The anatomical tissue surrounding the area is light pink and blue. No polyps or instruments are visible, and there are signs of inflammation but no evidence of bleeding, infection, or foreign bodies.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-74": {
+                "text": "An abnormality colored yellow is present in the center.",
+                "start": 19,
+                "end": 74,
+                "type": "correct"
+            },
+            "75-141": {
+                "text": "The anatomical tissue surrounding the area is light pink and blue.",
+                "start": 75,
+                "end": 141,
+                "type": "correct"
+            },
+            "142-274": {
+                "text": "No polyps or instruments are visible, and there are signs of inflammation but no evidence of bleeding, infection, or foreign bodies.",
+                "start": 142,
+                "end": 274,
+                "type": "correct"
+            }
+        }
+    },
+    "5bc3f392-f00f-4978-8f0d-02bb1f54f4c0.jpg": {
+        "original_text": "An image of cecum. An abnormality is present, which is white and roughly in the center. There are no polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "corrections": "An image of cecum. An abnormality is present, which is white and roughly in the center. There is one polyp ,but no  anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "start": 0,
+                "end": 17,
+                "type": "correct"
+            },
+            "19-87": {
+                "text": "An abnormality is present, which is white and roughly in the center.",
+                "start": 19,
+                "end": 87,
+                "type": "correct"
+            },
+            "88-227": {
+                "text": "There are no polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+                "start": 88,
+                "end": 227,
+                "type": "incorrect"
+            }
+        }
+    },
+    "88d77dd6-c870-497c-b156-96417620efe1.jpg": {
+        "original_text": "An image of z-line. There is a blue abnormality present. The anatomical landmark is pink. No polyps are observed. The abnormality is centralized on the right side. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "corrections": "An image of colon. There is a blue abnormality present. The anatomical landmark is pink. The abnormality is centralized on the right side. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image. There is one polyp present in the left the image. ",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 19
+            },
+            "20-89": {
+                "text": "There is a blue abnormality present. The anatomical landmark is pink.",
+                "type": "correct",
+                "start": 20,
+                "end": 89
+            },
+            "90-113": {
+                "text": "No polyps are observed.",
+                "type": "incorrect",
+                "start": 90,
+                "end": 113
+            },
+            "114-163": {
+                "text": "The abnormality is centralized on the right side.",
+                "type": "correct",
+                "start": 114,
+                "end": 163
+            },
+            "163-275": {
+                "text": " No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+                "type": "incorrect",
+                "start": 163,
+                "end": 275
+            }
+        }
+    },
+    "85ef9795-f799-4397-b6d0-63db1db8196b.jpg": {
+        "original_text": "An image of pylorus. There are two polyps present, located in the lower right of the image. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible.",
+        "corrections": "An image of colon. There one polyp present, located in the lower right of the image. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible. The anatomical landmark appears pink.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "20-90": {
+                "text": "There are two polyps present, located in the lower right of the image.",
+                "start": 20,
+                "end": 90,
+                "type": "incorrect"
+            },
+            "91-181": {
+                "text": "No instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible.",
+                "start": 91,
+                "end": 181,
+                "type": "correct"
+            }
+        }
+    },
+    "93bfd318-0523-4ff8-ad19-93b4eb329ed5.jpg": {
+        "original_text": "An image of cecum. The abnormality is greenish-white and located centrally. There are no visible polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "corrections": "An image of cecum. The abnormality is greenish-white and located centrally.There is one polyp present in the lowe center of the image.The anatomical landmark is colon wall. No instruments or foreign bodies. There are signs of minor inflammation and infection.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "17-18": {
+                "text": ".",
+                "start": 17,
+                "end": 18,
+                "type": "correct"
+            },
+            "18-74": {
+                "text": "The abnormality is greenish-white and located centrally.",
+                "start": 18,
+                "end": 74,
+                "type": "incorrect"
+            },
+            "19-75": {
+                "text": "The abnormality is greenish-white and located centrally.",
+                "start": 19,
+                "end": 75,
+                "type": "correct"
+            },
+            "75-201": {
+                "text": "There are no visible polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+                "start": 75,
+                "end": 201,
+                "type": "incorrect"
+            }
+        }
+    },
+    "3c229b33-6e5c-4c02-afae-cdd5ea65cf72.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark, the surrounding tissue, appears blue. There are no signs of inflammation, bleeding, infection, foreign bodies, or instruments present.",
+        "corrections": "An image of cecum. The anatomical landmark, the surrounding tissue, appears blue.There is one polyp located centrally. There are no signs of inflammation, bleeding, infection, foreign bodies, or instruments present.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-81": {
+                "text": "The anatomical landmark, the surrounding tissue, appears blue.",
+                "start": 19,
+                "end": 81,
+                "type": "correct"
+            },
+            "82-178": {
+                "text": "There are no signs of inflammation, bleeding, infection, foreign bodies, or instruments present.",
+                "start": 82,
+                "end": 178,
+                "type": "correct"
+            }
+        }
+    },
+    "4d80eeda-2481-4cc8-84cb-e80d119ce4c5.jpg": {
+        "original_text": "An image of cecum. The abnormality is a white polyp, located centrally. The landmark appears to be blue. There is one polyp present. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible.",
+        "corrections": "An image of cecum. The abnormality is a white polyp, located centrally. The landmark appears to be blue. There is one polyp present. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "19-71": {
+                "text": "The abnormality is a white polyp, located centrally.",
+                "start": 19,
+                "end": 71,
+                "type": "correct"
+            },
+            "72-104": {
+                "text": "The landmark appears to be blue.",
+                "start": 72,
+                "end": 104,
+                "type": "correct"
+            },
+            "105-132": {
+                "text": "There is one polyp present.",
+                "start": 105,
+                "end": 132,
+                "type": "correct"
+            },
+            "133-223": {
+                "text": "No instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible.",
+                "start": 133,
+                "end": 223,
+                "type": "correct"
+            }
+        }
+    }
+}

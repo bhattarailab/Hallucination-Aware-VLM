@@ -1,0 +1,1604 @@
+{
+    "b9726a70-6e02-4907-8f3a-4b8b0285d41c.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmarks, likely indicating the stomach or esophagus, are normal in color. No instruments, bleeding, or foreign bodies are visible in the image.",
+        "corrections": "An image of pylorus. The anatomical landmarks, likely indicating the stomach or esophagus, are normal in color. No instruments, bleeding, or foreign bodies are visible in the image.",
+        "annotations": {
+            "112-181": {
+                "text": "No instruments, bleeding, or foreign bodies are visible in the image.",
+                "type": "correct",
+                "start": 112,
+                "end": 181
+            },
+            "21-111": {
+                "text": "The anatomical landmarks, likely indicating the stomach or esophagus, are normal in color.",
+                "type": "correct",
+                "start": 21,
+                "end": 111
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "7e9988db-8f64-4bdb-b382-b2a9416ab751.jpg": {
+        "original_text": "An image of cecum. There are no abnormalities, polyps, or foreign bodies present. The anatomical landmark is pinkish. No instruments, signs of inflammation, infection, or evidence of bleeding are observed.",
+        "corrections": "An image of pylorus. There are no abnormalities, polyps, or foreign bodies present. The anatomical landmark is pinkish. No instruments, signs of inflammation, infection, or evidence of bleeding are observed.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "118-205": {
+                "text": "No instruments, signs of inflammation, infection, or evidence of bleeding are observed.",
+                "type": "correct",
+                "start": 118,
+                "end": 205
+            },
+            "82-117": {
+                "text": "The anatomical landmark is pinkish.",
+                "type": "correct",
+                "start": 82,
+                "end": 117
+            },
+            "19-82": {
+                "text": "There are no abnormalities, polyps, or foreign bodies present. ",
+                "type": "correct",
+                "start": 19,
+                "end": 82
+            }
+        }
+    },
+    "6d3405db-4ab3-46c4-b42c-c81caa5dfca3.jpg": {
+        "original_text": "An image of pylorus. An abnormality is present and has a light pink color, while the surrounding anatomical landmark is also pink. There is one polyp, seen centrally at the top. No instruments, bleeding, foreign bodies, or signs of inflammation or infection are observed.",
+        "corrections": "An image of pylorus. There are no visible abnormalities and the anatomical landmark is  pink. There are no polyps. No instruments, bleeding, foreign bodies, or signs of inflammation or infection are observed.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "20-75": {
+                "text": " An abnormality is present and has a light pink color, ",
+                "type": "incorrect",
+                "start": 20,
+                "end": 75
+            },
+            "75-130": {
+                "text": "while the surrounding anatomical landmark is also pink.",
+                "type": "correct",
+                "start": 75,
+                "end": 130
+            },
+            "178-271": {
+                "text": "No instruments, bleeding, foreign bodies, or signs of inflammation or infection are observed.",
+                "type": "correct",
+                "start": 178,
+                "end": 271
+            },
+            "131-177": {
+                "text": "There is one polyp, seen centrally at the top.",
+                "type": "incorrect",
+                "start": 131,
+                "end": 177
+            }
+        }
+    },
+    "7dbffc3c-7c7c-498a-a719-163808fb7a44.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmark is pink. There are no polyps, abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "corrections": "An image of pylorus. The anatomical landmark is pink. There are no polyps, abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "annotations": {
+            "54-186": {
+                "text": "There are no polyps, abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+                "type": "correct",
+                "start": 54,
+                "end": 186
+            },
+            "21-53": {
+                "text": "The anatomical landmark is pink.",
+                "type": "correct",
+                "start": 21,
+                "end": 53
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "2f0ad25b-8dfe-413a-a87e-6e961e2558e7.jpg": {
+        "original_text": "An image of cecum. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The typical color of the anatomical landmark, if identifiable, appears normal.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The typical color of the anatomical landmark appears normal.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "19-145": {
+                "text": "There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present",
+                "type": "correct",
+                "start": 19,
+                "end": 145
+            },
+            "147-225": {
+                "text": "The typical color of the anatomical landmark, if identifiable, appears normal.",
+                "type": "correct",
+                "start": 147,
+                "end": 225
+            }
+        }
+    },
+    "dfc00ba0-40d2-42b0-9ac2-3ea974a5e20e.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, or infection. The anatomical landmark is pink, and there's no evidence of foreign bodies.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, or infection  and there's no evidence of foreign bodies.",
+        "annotations": {
+            "124-157": {
+                "text": " The anatomical landmark is pink,",
+                "type": "incorrect",
+                "start": 124,
+                "end": 157
+            },
+            "157-200": {
+                "text": " and there's no evidence of foreign bodies.",
+                "type": "correct",
+                "start": 157,
+                "end": 200
+            },
+            "0-19": {
+                "text": "An image of pylorus",
+                "type": "correct",
+                "start": 0,
+                "end": 19
+            },
+            "21-123": {
+                "text": "There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, or infection",
+                "type": "correct",
+                "start": 21,
+                "end": 123
+            }
+        }
+    },
+    "9b7c06e8-d8c2-4542-af57-2767e83281c3.jpg": {
+        "original_text": "An image of cecum. A black abnormality is present, possibly a polyp, located centrally. The surrounding anatomical landmark appears healthy and pink with no signs of inflammation, bleeding, infection, or foreign bodies. Additionally, no medical instruments are visible in this image.",
+        "corrections": "An image of pylorus. There are no abnormalities, located centrally. The surrounding anatomical landmark appears healthy and pink with no signs of inflammation, bleeding, infection, or foreign bodies. Additionally, no medical instruments are visible in this image.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "19-87": {
+                "text": "A black abnormality is present, possibly a polyp, located centrally.",
+                "type": "incorrect",
+                "start": 19,
+                "end": 87
+            },
+            "88-219": {
+                "text": "The surrounding anatomical landmark appears healthy and pink with no signs of inflammation, bleeding, infection, or foreign bodies.",
+                "type": "correct",
+                "start": 88,
+                "end": 219
+            },
+            "220-283": {
+                "text": "Additionally, no medical instruments are visible in this image.",
+                "type": "correct",
+                "start": 220,
+                "end": 283
+            }
+        }
+    },
+    "4dbcd959-a282-4cd0-8147-f4fc5e989d6a.jpg": {
+        "original_text": "An image of pylorus. There is no evidence of polyps, inflammation, bleeding, foreign bodies, infection, or any surgical instruments present.",
+        "corrections": "An image of pylorus. There is no visible abnormality, polyps, inflammation, bleeding, foreign bodies, or signs of infection present. The anatomical landmark, likely the esophageal lumen, is tan to pink in color. No instruments are visible in the image.",
+        "annotations": {
+            "21-140": {
+                "text": "There is no evidence of polyps, inflammation, bleeding, foreign bodies, infection, or any surgical instruments present.",
+                "type": "correct",
+                "start": 21,
+                "end": 140
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "e9a7b759-6bfb-4f38-88bb-92f51b6f8bb9.jpg": {
+        "original_text": "An image of pylorus. No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is pink and there is one instrument visible in the top right corner of the image.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is pink. There are no instruments visible in the image.",
+        "annotations": {
+            "122-227": {
+                "text": "The anatomical landmark is pink and there is one instrument visible in the top right corner of the image.",
+                "type": "incorrect",
+                "start": 122,
+                "end": 227
+            },
+            "21-121": {
+                "text": "No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present.",
+                "type": "correct",
+                "start": 21,
+                "end": 121
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "fc7a12c8-250d-4568-83be-d878dae07b4f.jpg": {
+        "original_text": "An image of pylorus. There is evidence of bleeding with red spots visible. An anatomical landmark, likely the gastroesophageal junction, is present. No polyps, instruments, or foreign bodies are seen. Signs of inflammation are observed, but no clear signs of infection.",
+        "corrections": "An image of pylorus. No abnormality is seen in the image. No polyps, instruments, or foreign bodies are seen. Signs of inflammation are observed, but no clear signs of infection.",
+        "annotations": {
+            "74-147": {
+                "text": " An anatomical landmark, likely the gastroesophageal junction, is present",
+                "type": "incorrect",
+                "start": 74,
+                "end": 147
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            },
+            "21-74": {
+                "text": "There is evidence of bleeding with red spots visible.",
+                "type": "correct",
+                "start": 21,
+                "end": 74
+            },
+            "149-200": {
+                "text": "No polyps, instruments, or foreign bodies are seen.",
+                "type": "correct",
+                "start": 149,
+                "end": 200
+            },
+            "201-269": {
+                "text": "Signs of inflammation are observed, but no clear signs of infection.",
+                "type": "correct",
+                "start": 201,
+                "end": 269
+            }
+        }
+    },
+    "0aa2e5c7-f32c-416c-920c-3504f1438ee1.jpg": {
+        "original_text": "An image of pylorus. A dark-colored abnormality is present and centered in the image. The surrounding pink area is the anatomical landmark. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection observed in the image.",
+        "corrections": "An image of pylorus. There are no abnormalities  in the image. The  pink area is the anatomical landmark. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection observed in the image.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "20-85": {
+                "text": " A dark-colored abnormality is present and centered in the image.",
+                "type": "incorrect",
+                "start": 20,
+                "end": 85
+            },
+            "140-258": {
+                "text": "There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection observed in the image.",
+                "type": "correct",
+                "start": 140,
+                "end": 258
+            },
+            "86-139": {
+                "text": "The surrounding pink area is the anatomical landmark.",
+                "type": "correct",
+                "start": 86,
+                "end": 139
+            }
+        }
+    },
+    "d6df0145-3273-4889-a110-37d7243b95f5.jpg": {
+        "original_text": "An image of cecum. There do not appear to be any abnormalities, polyps, inflammation, bleeding, or signs of infection. No foreign bodies or instruments are present. The anatomical landmark present is of normal color.",
+        "corrections": "An image of pylorus. There do not appear to be any abnormalities, polyps, inflammation, bleeding, or signs of infection. No foreign bodies or instruments are present. The anatomical landmark present is of normal color.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "165-216": {
+                "text": "The anatomical landmark present is of normal color.",
+                "type": "correct",
+                "start": 165,
+                "end": 216
+            },
+            "119-164": {
+                "text": "No foreign bodies or instruments are present.",
+                "type": "correct",
+                "start": 119,
+                "end": 164
+            },
+            "19-119": {
+                "text": "There do not appear to be any abnormalities, polyps, inflammation, bleeding, or signs of infection. ",
+                "type": "correct",
+                "start": 19,
+                "end": 119
+            }
+        }
+    },
+    "0ebab707-f141-42f5-b1ee-9d887dbe242d.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark is pink. No instruments, inflammation, or signs of infection or bleeding are observed.",
+        "corrections": "An image of pylorus. The anatomical landmark is pink. No instruments, inflammation, polyps, or signs of infection or bleeding are observed.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "52-129": {
+                "text": "No instruments, inflammation, or signs of infection or bleeding are observed.",
+                "type": "correct",
+                "start": 52,
+                "end": 129
+            },
+            "19-51": {
+                "text": "The anatomical landmark is pink.",
+                "type": "correct",
+                "start": 19,
+                "end": 51
+            }
+        }
+    },
+    "fe783b66-c307-4adc-bfe5-1fc0d603a340.jpg": {
+        "original_text": "An image of pylorus. There are no apparent abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmarks are a natural pink color and there are no instruments visible.",
+        "corrections": "An image of pylorus. There are no apparent abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmarks are a natural pink color and there are no instruments visible.",
+        "annotations": {
+            "137-224": {
+                "text": "The anatomical landmarks are a natural pink color and there are no instruments visible.",
+                "type": "correct",
+                "start": 137,
+                "end": 224
+            },
+            "21-136": {
+                "text": "There are no apparent abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present.",
+                "type": "correct",
+                "start": 21,
+                "end": 136
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "0a0ce428-e7ee-4a42-9e60-b58b7cb6a06f.jpg": {
+        "original_text": "An image of pylorus. There is a small, black abnormality present, likely a foreign body, located centrally. The surrounding anatomical landmark is pink. There are no polyps, inflammation, signs of bleeding, or infection visible. One instrument is present, positioned near the abnormality.",
+        "corrections": "An image of pylorus. There are no abnormalities present. The surrounding anatomical landmark is pink. There are no polyps, inflammation, signs of bleeding, or infection visible. ",
+        "annotations": {
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            },
+            "21-107": {
+                "text": "There is a small, black abnormality present, likely a foreign body, located centrally.",
+                "type": "incorrect",
+                "start": 21,
+                "end": 107
+            },
+            "228-288": {
+                "text": " One instrument is present, positioned near the abnormality.",
+                "type": "incorrect",
+                "start": 228,
+                "end": 288
+            },
+            "153-228": {
+                "text": "There are no polyps, inflammation, signs of bleeding, or infection visible.",
+                "type": "correct",
+                "start": 153,
+                "end": 228
+            },
+            "108-153": {
+                "text": "The surrounding anatomical landmark is pink. ",
+                "type": "correct",
+                "start": 108,
+                "end": 153
+            }
+        }
+    },
+    "b6780abc-5afc-483c-a320-2eb64353c44f.jpg": {
+        "original_text": "An image of pylorus. There are no abnormalities, polyps, visible inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmark present is of normal color. There are no instruments visible in the image.",
+        "corrections": "An image of pylorus. There are no abnormalities, polyps, visible inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmark present is of normal color. There are no instruments visible in the image.",
+        "annotations": {
+            "180-226": {
+                "text": "There are no instruments visible in the image.",
+                "type": "correct",
+                "start": 180,
+                "end": 226
+            },
+            "128-179": {
+                "text": "The anatomical landmark present is of normal color.",
+                "type": "correct",
+                "start": 128,
+                "end": 179
+            },
+            "21-127": {
+                "text": "There are no abnormalities, polyps, visible inflammation, bleeding, foreign bodies, or signs of infection.",
+                "type": "correct",
+                "start": 21,
+                "end": 127
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "d9a75a4c-e5f1-49b3-9bd0-9efa61737c74.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, or signs of infection. No identifiable anatomical landmarks, instruments, or foreign bodies are present in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, or signs of infection. No instruments, or foreign bodies are present in the image.",
+        "annotations": {
+            "112-206": {
+                "text": "No identifiable anatomical landmarks, instruments, or foreign bodies are present in the image.",
+                "type": "correct",
+                "start": 112,
+                "end": 206
+            },
+            "21-112": {
+                "text": "There are no visible abnormalities, polyps, inflammation, bleeding, or signs of infection. ",
+                "type": "correct",
+                "start": 21,
+                "end": 112
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "e3c008df-e2a4-48f0-814a-8b06254f8ee0.jpg": {
+        "original_text": "An image of z-line. No abnormalities, polyps, or foreign bodies are visible. The anatomical landmarks appear normal in color. No instruments, signs of inflammation, infection, or bleeding are observed.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, or foreign bodies are visible. The anatomical landmarks appear normal in color. No instruments, signs of inflammation, infection, or bleeding are observed.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 19
+            },
+            "125-201": {
+                "text": " No instruments, signs of inflammation, infection, or bleeding are observed.",
+                "type": "correct",
+                "start": 125,
+                "end": 201
+            },
+            "77-125": {
+                "text": "The anatomical landmarks appear normal in color.",
+                "type": "correct",
+                "start": 77,
+                "end": 125
+            },
+            "20-77": {
+                "text": "No abnormalities, polyps, or foreign bodies are visible. ",
+                "type": "correct",
+                "start": 20,
+                "end": 77
+            }
+        }
+    },
+    "a47588f1-e876-4991-9304-b9cedfa292ab.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The anatomical landmarks are normal in color and there\u2019s no evidence of abnormalities.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The anatomical landmarks are normal in color and there\u2019s no evidence of abnormalities.",
+        "annotations": {
+            "149-235": {
+                "text": "The anatomical landmarks are normal in color and there\u2019s no evidence of abnormalities.",
+                "type": "correct",
+                "start": 149,
+                "end": 235
+            },
+            "21-148": {
+                "text": "There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present.",
+                "type": "correct",
+                "start": 21,
+                "end": 148
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "bbe363f1-166b-4836-9491-e81e125122f6.jpg": {
+        "original_text": "An image of cecum. A black abnormality is present in the center. The surrounding anatomical landmark is pinkish. No polyps, instruments, or signs of infection, inflammation, or bleeding are evident, and there are no foreign bodies detected.",
+        "corrections": "An image of pylorus. No abnormality is seen in the image. The surrounding anatomical landmark is pinkish. No polyps, instruments, or signs of infection, inflammation, or bleeding are evident, and there are no foreign bodies detected.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "18-64": {
+                "text": " A black abnormality is present in the center.",
+                "type": "incorrect",
+                "start": 18,
+                "end": 64
+            },
+            "65-240": {
+                "text": "The surrounding anatomical landmark is pinkish. No polyps, instruments, or signs of infection, inflammation, or bleeding are evident, and there are no foreign bodies detected.",
+                "type": "correct",
+                "start": 65,
+                "end": 240
+            }
+        }
+    },
+    "d64d18d3-4356-40e7-8346-32deb619a68c.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmarks appear light pink, and no instruments are present in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmarks appear light pink, and no instruments are present in the image.",
+        "annotations": {
+            "128-216": {
+                "text": "The anatomical landmarks appear light pink, and no instruments are present in the image.",
+                "type": "correct",
+                "start": 128,
+                "end": 216
+            },
+            "21-127": {
+                "text": "There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection.",
+                "type": "correct",
+                "start": 21,
+                "end": 127
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "28bfe970-150a-4b8f-b392-ed080cac4dfb.jpg": {
+        "original_text": "An image of pylorus. A black object or abnormality is seen, likely indicating a foreign body. The anatomical landmark is of normal color. There are no polyps, signs of inflammation, infection, or bleeding present. The abnormality is located centrally in the image, without any instruments visible.",
+        "corrections": "An image of pylorus. The anatomical landmark is of normal color. There are no polyps, signs of inflammation, infection, or bleeding present. No instruments visible.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "213-264": {
+                "text": " The abnormality is located centrally in the image,",
+                "type": "incorrect",
+                "start": 213,
+                "end": 264
+            },
+            "264-297": {
+                "text": " without any instruments visible.",
+                "type": "correct",
+                "start": 264,
+                "end": 297
+            },
+            "138-213": {
+                "text": "There are no polyps, signs of inflammation, infection, or bleeding present.",
+                "type": "correct",
+                "start": 138,
+                "end": 213
+            },
+            "94-137": {
+                "text": "The anatomical landmark is of normal color.",
+                "type": "correct",
+                "start": 94,
+                "end": 137
+            },
+            "21-93": {
+                "text": "A black object or abnormality is seen, likely indicating a foreign body.",
+                "type": "correct",
+                "start": 21,
+                "end": 93
+            }
+        }
+    },
+    "1f0fda8a-0aca-472f-814e-82c93a9bd21a.jpg": {
+        "original_text": "An image of cecum. The abnormality, if present, would be darker but none is evident. The anatomical landmark appears to be pink. There are no polyps, no instruments, no signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "corrections": "An image of pylorus.There are no visible abnormalities. The anatomical landmark appears to be pink. There are no polyps, no instruments, no signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "annotations": {
+            "129-239": {
+                "text": "There are no polyps, no instruments, no signs of inflammation, bleeding, infection, or foreign bodies present.",
+                "type": "correct",
+                "start": 129,
+                "end": 239
+            },
+            "85-129": {
+                "text": "The anatomical landmark appears to be pink. ",
+                "type": "correct",
+                "start": 85,
+                "end": 129
+            },
+            "19-85": {
+                "text": "The abnormality, if present, would be darker but none is evident. ",
+                "type": "incorrect",
+                "start": 19,
+                "end": 85
+            },
+            "0-19": {
+                "text": "An image of cecum. ",
+                "type": "incorrect",
+                "start": 0,
+                "end": 19
+            }
+        }
+    },
+    "9290f29e-740f-41dc-8949-cc073d41cbfe.jpg": {
+        "original_text": "An image of pylorus. There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is pinkish in color, and there are no instruments in the image.",
+        "corrections": "An image of pylorus. There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is pinkish in color, and there are no instruments in the image.",
+        "annotations": {
+            "116-211": {
+                "text": "The anatomical landmark present is pinkish in color, and there are no instruments in the image.",
+                "type": "correct",
+                "start": 116,
+                "end": 211
+            },
+            "21-116": {
+                "text": "There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. ",
+                "type": "correct",
+                "start": 21,
+                "end": 116
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "6b428229-461e-432f-853c-b391796e7af4.jpg": {
+        "original_text": "An image of pylorus. No noticeable abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is normal and pink in color with some yellowish areas. There are no visible polyps or instruments, and the image does not show signs of any abnormalities.",
+        "corrections": "An image of pylorus. No noticeable abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is normal and pink in color with some yellowish areas. There are no visible polyps or instruments, and the image does not show signs of any abnormalities.",
+        "annotations": {
+            "225-324": {
+                "text": "There are no visible polyps or instruments, and the image does not show signs of any abnormalities.",
+                "type": "correct",
+                "start": 225,
+                "end": 324
+            },
+            "146-225": {
+                "text": "The anatomical landmark is normal and pink in color with some yellowish areas. ",
+                "type": "correct",
+                "start": 146,
+                "end": 225
+            },
+            "21-144": {
+                "text": "No noticeable abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present",
+                "type": "correct",
+                "start": 21,
+                "end": 144
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "ee52d6c4-a9a3-4816-805e-ca38becc2b64.jpg": {
+        "original_text": "An image of cecum. There is no visible abnormality, polyp, or sign of inflammation, infection, or bleeding. The anatomical landmark is the esophageal opening, appearing red. No instruments or foreign bodies are present.",
+        "corrections": "An image of pylorus. There is no visible abnormality, polyp, or sign of inflammation, infection, or bleeding. The anatomical landmark is pylorus, appearing red. No instruments or foreign bodies are present.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "18-107": {
+                "text": " There is no visible abnormality, polyp, or sign of inflammation, infection, or bleeding.",
+                "type": "correct",
+                "start": 18,
+                "end": 107
+            },
+            "107-173": {
+                "text": " The anatomical landmark is the esophageal opening, appearing red.",
+                "type": "incorrect",
+                "start": 107,
+                "end": 173
+            },
+            "173-219": {
+                "text": " No instruments or foreign bodies are present.",
+                "type": "correct",
+                "start": 173,
+                "end": 219
+            }
+        }
+    },
+    "7f607ea9-1c1a-4e65-9888-7db35c807f59.jpg": {
+        "original_text": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed. The anatomical landmark is pinkish in color.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed. The anatomical landmark is pinkish in color.",
+        "annotations": {
+            "136-180": {
+                "text": "The anatomical landmark is pinkish in color.",
+                "type": "correct",
+                "start": 136,
+                "end": 180
+            },
+            "21-136": {
+                "text": "No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed. ",
+                "type": "correct",
+                "start": 21,
+                "end": 136
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "5cb44d15-b550-4b38-8dbb-30f908de309c.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, or inflammation, and no signs of infection, bleeding, or foreign bodies. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, or inflammation, and no signs of infection, bleeding, or foreign bodies. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "annotations": {
+            "138-227": {
+                "text": "The anatomical landmark is light pink, and there are no instruments present in the image.",
+                "type": "correct",
+                "start": 138,
+                "end": 227
+            },
+            "21-138": {
+                "text": "There are no visible abnormalities, polyps, or inflammation, and no signs of infection, bleeding, or foreign bodies. ",
+                "type": "correct",
+                "start": 21,
+                "end": 138
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "6a9c049b-0207-4270-ac33-28f1122c1b7e.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmark is typically pink. There are no visible polyps, abnormalities, instruments, signs of inflammation, bleeding, infections, or foreign bodies present.",
+        "corrections": "An image of pylorus. The anatomical landmark is typically pink. There are no visible polyps, abnormalities, instruments, signs of inflammation, bleeding, infections, or foreign bodies present.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "type": "correct",
+                "start": 0,
+                "end": 19
+            },
+            "64-192": {
+                "text": "There are no visible polyps, abnormalities, instruments, signs of inflammation, bleeding, infections, or foreign bodies present.",
+                "type": "correct",
+                "start": 64,
+                "end": 192
+            },
+            "21-63": {
+                "text": "The anatomical landmark is typically pink.",
+                "type": "correct",
+                "start": 21,
+                "end": 63
+            }
+        }
+    },
+    "ae77941e-fab3-4b3c-b8b6-c0559d58870c.jpg": {
+        "original_text": "An image of cecum. There is no clear abnormality present, the anatomical landmark is light pink, and there are no polyps. No instruments, foreign bodies, inflammation, infection, or bleeding are evident. The overall appearance suggests no significant abnormalities.",
+        "corrections": "An image of pylorus. There is no clear abnormality present, the anatomical landmark is light pink, and there are no polyps. No instruments, foreign bodies, inflammation, infection, or bleeding are evident. The overall appearance suggests no significant abnormalities.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "204-265": {
+                "text": "The overall appearance suggests no significant abnormalities.",
+                "type": "correct",
+                "start": 204,
+                "end": 265
+            },
+            "122-203": {
+                "text": "No instruments, foreign bodies, inflammation, infection, or bleeding are evident.",
+                "type": "correct",
+                "start": 122,
+                "end": 203
+            },
+            "19-121": {
+                "text": "There is no clear abnormality present, the anatomical landmark is light pink, and there are no polyps.",
+                "type": "correct",
+                "start": 19,
+                "end": 121
+            }
+        }
+    },
+    "cac3e8f2-b742-4f84-b2e9-b86204528be9.jpg": {
+        "original_text": "An image of pylorus. No abnormality, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present; the anatomical landmark is light pink.",
+        "corrections": "An image of pylorus. No abnormality, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present; the anatomical landmark is light pink.",
+        "annotations": {
+            "21-171": {
+                "text": "No abnormality, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present; the anatomical landmark is light pink.",
+                "type": "correct",
+                "start": 21,
+                "end": 171
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "b723b2c8-6aaa-4d0a-a0a1-945b48c84653.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is of normal color.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is of normal color.",
+        "annotations": {
+            "153-204": {
+                "text": "The anatomical landmark present is of normal color.",
+                "type": "correct",
+                "start": 153,
+                "end": 204
+            },
+            "21-153": {
+                "text": "There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. ",
+                "type": "correct",
+                "start": 21,
+                "end": 153
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "cf7f4855-53d8-4c5c-b3d0-44c4e23b4354.jpg": {
+        "original_text": "An image of pylorus. There is no clear abnormality or polyp present. The anatomical landmark appears pink. No instruments are visible. There are no signs of inflammation, bleeding, infection, or foreign bodies detected in the image.",
+        "corrections": "An image of pylorus. There is no clear abnormality or polyp present. The anatomical landmark appears pink. No instruments are visible. There are no signs of inflammation, bleeding, infection, or foreign bodies detected in the image.",
+        "annotations": {
+            "135-232": {
+                "text": "There are no signs of inflammation, bleeding, infection, or foreign bodies detected in the image.",
+                "type": "correct",
+                "start": 135,
+                "end": 232
+            },
+            "69-134": {
+                "text": "The anatomical landmark appears pink. No instruments are visible.",
+                "type": "correct",
+                "start": 69,
+                "end": 134
+            },
+            "21-69": {
+                "text": "There is no clear abnormality or polyp present. ",
+                "type": "correct",
+                "start": 21,
+                "end": 69
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "d6ea9227-ba72-4ddf-85ee-8814989dcca2.jpg": {
+        "original_text": "An image of pylorus. There is a red abnormality near the center, possibly inflammation, with no polyps or foreign bodies visible. The anatomical landmark is pink. No instruments or bleeding are present, and there are no signs of infection.",
+        "corrections": "An image of pylorus. There is a red abnormality near the center, possibly inflammation, with no polyps or foreign bodies visible. The anatomical landmark is pink. No instruments or bleeding are present, and there are no signs of infection.",
+        "annotations": {
+            "163-239": {
+                "text": "No instruments or bleeding are present, and there are no signs of infection.",
+                "type": "correct",
+                "start": 163,
+                "end": 239
+            },
+            "130-162": {
+                "text": "The anatomical landmark is pink.",
+                "type": "correct",
+                "start": 130,
+                "end": 162
+            },
+            "21-130": {
+                "text": "There is a red abnormality near the center, possibly inflammation, with no polyps or foreign bodies visible. ",
+                "type": "correct",
+                "start": 21,
+                "end": 130
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "1be5f072-bd1d-4889-a772-2ad69c1347cd.jpg": {
+        "original_text": "An image of cecum. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark is likely the esophagus, and it appears healthy and pink. There are no instruments present in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark is the pylorus, and it appears healthy and pink. There are no instruments present in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of cecum. ",
+                "type": "incorrect",
+                "start": 0,
+                "end": 19
+            },
+            "19-116": {
+                "text": "There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies.",
+                "type": "correct",
+                "start": 19,
+                "end": 116
+            },
+            "199-245": {
+                "text": "There are no instruments present in the image.",
+                "type": "correct",
+                "start": 199,
+                "end": 245
+            },
+            "117-198": {
+                "text": "The anatomical landmark is likely the esophagus, and it appears healthy and pink.",
+                "type": "incorrect",
+                "start": 117,
+                "end": 198
+            }
+        }
+    },
+    "3e6bb4a1-ce91-4021-90e9-36f443eec17b.jpg": {
+        "original_text": "An image of pylorus. There is a dark-colored abnormality present in the center. No polyps, inflammation, signs of infection, or bleeding are evident. An anatomical landmark is visible, and there are no instruments or foreign bodies in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalitie,  No polyps, inflammation, signs of infection, or bleeding are evident. An anatomical landmark is visible, and there are no instruments or foreign bodies in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "type": "correct",
+                "start": 0,
+                "end": 19
+            },
+            "20-79": {
+                "text": " There is a dark-colored abnormality present in the center.",
+                "type": "incorrect",
+                "start": 20,
+                "end": 79
+            },
+            "150-245": {
+                "text": "An anatomical landmark is visible, and there are no instruments or foreign bodies in the image.",
+                "type": "correct",
+                "start": 150,
+                "end": 245
+            },
+            "79-150": {
+                "text": " No polyps, inflammation, signs of infection, or bleeding are evident. ",
+                "type": "correct",
+                "start": 79,
+                "end": 150
+            }
+        }
+    },
+    "94e47d85-ea52-4438-9817-f70f17cc9837.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark is pink, with no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. No instruments are present in the image.",
+        "corrections": "An image of pylorus. The anatomical landmark is pink, with no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. No instruments are present in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of cecum. ",
+                "type": "incorrect",
+                "start": 0,
+                "end": 19
+            },
+            "154-194": {
+                "text": "No instruments are present in the image.",
+                "type": "correct",
+                "start": 154,
+                "end": 194
+            },
+            "19-153": {
+                "text": "The anatomical landmark is pink, with no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection.",
+                "type": "correct",
+                "start": 19,
+                "end": 153
+            }
+        }
+    },
+    "9a38d436-d517-4567-a1a3-89d748670a36.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark is pink in color, and there are no instruments in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark is pink in color, and there are no instruments in the image.",
+        "annotations": {
+            "127-211": {
+                "text": "The anatomical landmark is pink in color, and there are no instruments in the image.",
+                "type": "correct",
+                "start": 127,
+                "end": 211
+            },
+            "21-127": {
+                "text": "There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies present. ",
+                "type": "correct",
+                "start": 21,
+                "end": 127
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "0ecbcefc-2fa0-4108-b560-1f779f2b3280.jpg": {
+        "original_text": "An image of pylorus. There is no visible abnormality, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark, which is the healthy mucosa, is a normal pink color. There are no instruments present in the image.",
+        "corrections": "An image of pylorus. There is no visible abnormality, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark, which is the healthy mucosa, is a normal pink color. There are no instruments present in the image.",
+        "annotations": {
+            "203-249": {
+                "text": "There are no instruments present in the image.",
+                "type": "correct",
+                "start": 203,
+                "end": 249
+            },
+            "125-203": {
+                "text": "The anatomical landmark, which is the healthy mucosa, is a normal pink color. ",
+                "type": "correct",
+                "start": 125,
+                "end": 203
+            },
+            "21-124": {
+                "text": "There is no visible abnormality, polyps, signs of inflammation, bleeding, infection, or foreign bodies.",
+                "type": "correct",
+                "start": 21,
+                "end": 124
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "eadfaf8f-884e-4702-8496-f48cdcd37389.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmark, likely the esophageal or gastric mucosa, is pink in color with no evident issues.",
+        "corrections": "An image of pylorus. The anatomical landmark is pink in color with no evident issues. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "21-127": {
+                "text": "The anatomical landmark, likely the esophageal or gastric mucosa, is pink in color with no evident issues.",
+                "type": "incorrect",
+                "start": 21,
+                "end": 127
+            }
+        }
+    },
+    "c05639d0-1f25-4f56-ada6-9623875a05aa.jpg": {
+        "original_text": "An image of cecum. The anatomical landmark shows no visible abnormalities or polyps. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The area appears healthy and normal.",
+        "corrections": "An image of pylorus. The anatomical landmark shows no visible abnormalities or polyps. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The area appears healthy and normal.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "182-218": {
+                "text": "The area appears healthy and normal.",
+                "type": "correct",
+                "start": 182,
+                "end": 218
+            },
+            "85-181": {
+                "text": "There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+                "type": "correct",
+                "start": 85,
+                "end": 181
+            },
+            "19-84": {
+                "text": "The anatomical landmark shows no visible abnormalities or polyps.",
+                "type": "correct",
+                "start": 19,
+                "end": 84
+            }
+        }
+    },
+    "7e679490-9b55-4fbb-b98a-a5a612f737fb.jpg": {
+        "original_text": "An image of pylorus. A dark anatomical landmark is visible centrally. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is the esophageal opening.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is the pylorus.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "21-69": {
+                "text": "A dark anatomical landmark is visible centrally.",
+                "type": "incorrect",
+                "start": 21,
+                "end": 69
+            },
+            "70-200": {
+                "text": "There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection",
+                "type": "correct",
+                "start": 70,
+                "end": 200
+            },
+            "202-260": {
+                "text": "The anatomical landmark present is the esophageal opening.",
+                "type": "incorrect",
+                "start": 202,
+                "end": 260
+            }
+        }
+    },
+    "5b1b2b8a-fd6b-469d-82e6-4e107f90a37b.jpg": {
+        "original_text": "An image of pylorus. The abnormality, a dark-colored polyp, is present. The anatomical landmark is the pinkish mucosal surface. There is one polyp located centrally in the image. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed.",
+        "corrections": "An image of pylorus. No abnormality is seen in the image. The anatomical landmark is the pinkish mucosal surface. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "type": "correct",
+                "start": 0,
+                "end": 19
+            },
+            "179-270": {
+                "text": "No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed.",
+                "type": "correct",
+                "start": 179,
+                "end": 270
+            },
+            "128-179": {
+                "text": "There is one polyp located centrally in the image. ",
+                "type": "incorrect",
+                "start": 128,
+                "end": 179
+            },
+            "21-127": {
+                "text": "The abnormality, a dark-colored polyp, is present. The anatomical landmark is the pinkish mucosal surface.",
+                "type": "incorrect",
+                "start": 21,
+                "end": 127
+            }
+        }
+    },
+    "78e23433-bbbf-4765-870a-2e79c6e2aa0e.jpg": {
+        "original_text": "An image of pylorus. There are no noticeable polyps, abnormalities, signs of inflammation, infection, or bleeding. The image does not show any instruments or foreign bodies. The overall color is consistent with normal tissue tones, and no specific abnormalities can be observed.",
+        "corrections": "An image of pylorus. There are no noticeable polyps, abnormalities, signs of inflammation, infection, or bleeding. The image does not show any instruments or foreign bodies. The overall color is consistent with normal tissue tones, and no specific abnormalities can be observed.",
+        "annotations": {
+            "174-278": {
+                "text": "The overall color is consistent with normal tissue tones, and no specific abnormalities can be observed.",
+                "type": "correct",
+                "start": 174,
+                "end": 278
+            },
+            "115-173": {
+                "text": "The image does not show any instruments or foreign bodies.",
+                "type": "correct",
+                "start": 115,
+                "end": 173
+            },
+            "21-114": {
+                "text": "There are no noticeable polyps, abnormalities, signs of inflammation, infection, or bleeding.",
+                "type": "correct",
+                "start": 21,
+                "end": 114
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "a42d31e8-573d-41d2-bee2-f7ccfb5b4201.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmark appears normal in pink color, and no instruments or foreign bodies are present.",
+        "corrections": "An image of pylorus. The anatomical landmark appears normal in pink color, and no instruments or foreign bodies are present. There are no abnormalities or polyps.",
+        "annotations": {
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            },
+            "21-124": {
+                "text": "The anatomical landmark appears normal in pink color, and no instruments or foreign bodies are present.",
+                "type": "correct",
+                "start": 21,
+                "end": 124
+            }
+        }
+    },
+    "af744492-dc36-4f70-95e8-9056c462eaca.jpg": {
+        "original_text": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, foreign bodies, or infection. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, signs of inflammation, bleeding, foreign bodies, or infection. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "126-215": {
+                "text": "The anatomical landmark is light pink, and there are no instruments present in the image.",
+                "type": "correct",
+                "start": 126,
+                "end": 215
+            },
+            "19-125": {
+                "text": "There are no visible abnormalities, polyps, signs of inflammation, bleeding, foreign bodies, or infection.",
+                "type": "correct",
+                "start": 19,
+                "end": 125
+            }
+        }
+    },
+    "e55c00fa-c254-4550-a2f3-5a7836f05c92.jpg": {
+        "original_text": "An image of pylorus. No abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observable. The anatomical landmark visible is the mucosal surface, which is a normal pinkish color without further irregularities.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observable. The anatomical landmark visible is the mucosal surface, which is a normal pinkish color without further irregularities.",
+        "annotations": {
+            "138-257": {
+                "text": "The anatomical landmark visible is the mucosal surface, which is a normal pinkish color without further irregularities.",
+                "type": "correct",
+                "start": 138,
+                "end": 257
+            },
+            "21-138": {
+                "text": "No abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observable. ",
+                "type": "correct",
+                "start": 21,
+                "end": 138
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "0d5e61ca-35c1-4bee-bf29-91ce3b2663ff.jpg": {
+        "original_text": "An image of pylorus. There is a small black foreign body present. The surrounding anatomical landmark is pink in color. No polyps, signs of inflammation, infection, or bleeding are evident. No instruments are visible in the image.",
+        "corrections": "An image of pylorus. There is no small black foreign body. The surrounding anatomical landmark is pink in color. No polyps, signs of inflammation, infection, or bleeding are evident. No instruments are visible in the image.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "type": "correct",
+                "start": 0,
+                "end": 19
+            },
+            "21-64": {
+                "text": "There is a small black foreign body present",
+                "type": "incorrect",
+                "start": 21,
+                "end": 64
+            },
+            "190-230": {
+                "text": "No instruments are visible in the image.",
+                "type": "correct",
+                "start": 190,
+                "end": 230
+            },
+            "120-189": {
+                "text": "No polyps, signs of inflammation, infection, or bleeding are evident.",
+                "type": "correct",
+                "start": 120,
+                "end": 189
+            },
+            "65-119": {
+                "text": " The surrounding anatomical landmark is pink in color.",
+                "type": "correct",
+                "start": 65,
+                "end": 119
+            }
+        }
+    },
+    "6d32ace1-ab3f-44a5-8d46-c238209b6a09.jpg": {
+        "original_text": "An image of cecum. There are no visible abnormalities, polyps, inflammation, signs of infection, or bleeding present. The anatomical landmark is pink, and no instruments or foreign bodies are observed in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, signs of infection, or bleeding present. The anatomical landmark is pink, and no instruments or foreign bodies are observed in the image.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "118-214": {
+                "text": "The anatomical landmark is pink, and no instruments or foreign bodies are observed in the image.",
+                "type": "correct",
+                "start": 118,
+                "end": 214
+            },
+            "19-117": {
+                "text": "There are no visible abnormalities, polyps, inflammation, signs of infection, or bleeding present.",
+                "type": "correct",
+                "start": 19,
+                "end": 117
+            }
+        }
+    },
+    "8a51742e-6308-4511-aedd-5d538f9feec9.jpg": {
+        "original_text": "An image of cecum. No anatomical landmarks are distinctly visible.",
+        "corrections": "An image of pylorus. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "annotations": {
+            "0-17": {
+                "text": "An image of cecum",
+                "type": "incorrect",
+                "start": 0,
+                "end": 17
+            },
+            "18-66": {
+                "text": " No anatomical landmarks are distinctly visible.",
+                "type": "correct",
+                "start": 18,
+                "end": 66
+            }
+        }
+    },
+    "a0ff8429-d667-4630-ab56-2286b1e3d74b.jpg": {
+        "original_text": "An image of cecum. There's no visible abnormality, polyp, inflammation, or infection. The anatomical landmark, a dark opening, is central. There are no instruments, signs of bleeding, or foreign bodies present. The image appears normal and free of concerning findings.",
+        "corrections": "An image of pylorus. There's no visible abnormality, polyp, inflammation, or infection. The anatomical landmark, a dark opening, is central. There are no instruments, signs of bleeding, or foreign bodies present. The image appears normal and free of concerning findings.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of cecum.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 18
+            },
+            "211-268": {
+                "text": "The image appears normal and free of concerning findings.",
+                "type": "correct",
+                "start": 211,
+                "end": 268
+            },
+            "86-211": {
+                "text": "The anatomical landmark, a dark opening, is central. There are no instruments, signs of bleeding, or foreign bodies present. ",
+                "type": "correct",
+                "start": 86,
+                "end": 211
+            },
+            "19-86": {
+                "text": "There's no visible abnormality, polyp, inflammation, or infection. ",
+                "type": "correct",
+                "start": 19,
+                "end": 86
+            }
+        }
+    },
+    "d7506dc7-132e-4534-a27a-53f1830dfaaf.jpg": {
+        "original_text": "An image of pylorus. There are anatomical landmarks present, but they look normal.",
+        "corrections": "An image of pylorus. There are anatomical landmarks present, but they look normal.No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "annotations": {
+            "21-82": {
+                "text": "There are anatomical landmarks present, but they look normal.",
+                "type": "correct",
+                "start": 21,
+                "end": 82
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "7a3ee764-c145-47a7-9c73-dad26c5b20a3.jpg": {
+        "original_text": "An image of pylorus. No abnormalities, polyps, bleeding, inflammation, foreign bodies, or signs of infection are present. The anatomical landmark, possibly the mucosa, is visible and pink in color. No instruments can be observed in the image.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, bleeding, inflammation, foreign bodies, or signs of infection are present. The anatomical landmark, possibly the mucosa, is visible and pink in color. No instruments can be observed in the image.",
+        "annotations": {
+            "198-242": {
+                "text": "No instruments can be observed in the image.",
+                "type": "correct",
+                "start": 198,
+                "end": 242
+            },
+            "122-197": {
+                "text": "The anatomical landmark, possibly the mucosa, is visible and pink in color.",
+                "type": "correct",
+                "start": 122,
+                "end": 197
+            },
+            "21-122": {
+                "text": "No abnormalities, polyps, bleeding, inflammation, foreign bodies, or signs of infection are present. ",
+                "type": "correct",
+                "start": 21,
+                "end": 122
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "db9401dd-706e-4518-aac8-1c036029114f.jpg": {
+        "original_text": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present. The visible anatomical landmark, which is the typical appearance of the gastrointestinal mucosa, is pinkish in color.",
+        "corrections": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present. The visible anatomical landmark, which is the typical appearance of the gastrointestinal mucosa, is pinkish in color.",
+        "annotations": {
+            "135-252": {
+                "text": "The visible anatomical landmark, which is the typical appearance of the gastrointestinal mucosa, is pinkish in color.",
+                "type": "correct",
+                "start": 135,
+                "end": 252
+            },
+            "21-134": {
+                "text": "No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present.",
+                "type": "correct",
+                "start": 21,
+                "end": 134
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "cd8e5484-c6cc-4bcc-822f-d8173de002b2.jpg": {
+        "original_text": "An image of pylorus. No foreign bodies are present in the image.",
+        "corrections": "An image of pylorus. The anatomical landmark is light pink. There is no visible abnormality, polyps, instruments, inflammation, infection, bleeding, or foreign bodies present in the image.",
+        "annotations": {
+            "21-64": {
+                "text": "No foreign bodies are present in the image.",
+                "type": "correct",
+                "start": 21,
+                "end": 64
+            },
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            }
+        }
+    },
+    "49bc98dc-7f74-4187-acd2-21ab2c620452.jpg": {
+        "original_text": "An image of pylorus. The abnormality is a dark-colored object in the center, likely a polyp. The surrounding tissue, which is the anatomical landmark, is normal pink mucosa. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "corrections": "An image of pylorus. There are no abnormalities. The surrounding tissue, which is the anatomical landmark, is normal pink mucosa. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "20-92": {
+                "text": " The abnormality is a dark-colored object in the center, likely a polyp.",
+                "type": "incorrect",
+                "start": 20,
+                "end": 92
+            },
+            "174-270": {
+                "text": "There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+                "type": "correct",
+                "start": 174,
+                "end": 270
+            },
+            "93-173": {
+                "text": "The surrounding tissue, which is the anatomical landmark, is normal pink mucosa.",
+                "type": "correct",
+                "start": 93,
+                "end": 173
+            }
+        }
+    },
+    "0fc0b0b8-2c5d-4fed-8254-a31562b6b1c6.jpg": {
+        "original_text": "An image of pylorus. The anatomical landmarks present are pinkish in color, and no instruments are visible in the image.",
+        "corrections": "An image of pylorus. The anatomical landmarks present are pinkish in color, and no instruments or polyps are visible in the image.",
+        "annotations": {
+            "21-120": {
+                "text": "The anatomical landmarks present are pinkish in color, and no instruments are visible in the image.",
+                "type": "correct",
+                "start": 21,
+                "end": 120
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "ea510ea5-8697-4a6f-a86e-f8720c761e53.jpg": {
+        "original_text": "An image of pylorus. A yellow abnormality is present, and there is a small lesion suggestive of possible bleeding, located on the middle left. There are no anatomical landmarks, polyps, instruments, signs of inflammation, infection, or foreign bodies in the image.",
+        "corrections": "An image of pylorus. A yellow abnormality is present, and there is a small lesion suggestive of possible bleeding, located on the middle left. There are no polyps, instruments, signs of inflammation, infection, or foreign bodies in the image.",
+        "annotations": {
+            "143-264": {
+                "text": "There are no anatomical landmarks, polyps, instruments, signs of inflammation, infection, or foreign bodies in the image.",
+                "type": "incorrect",
+                "start": 143,
+                "end": 264
+            },
+            "21-142": {
+                "text": "A yellow abnormality is present, and there is a small lesion suggestive of possible bleeding, located on the middle left.",
+                "type": "correct",
+                "start": 21,
+                "end": 142
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    },
+    "b381de8f-148c-4959-ae10-fbc07a0ff244.jpg": {
+        "original_text": "An image of pylorus. There is an abnormality present, which is black in color, and centrally located. No anatomical landmarks, instruments, signs of inflammation, bleeding, infection, or foreign bodies are visible. Only one polyp is observed.",
+        "corrections": "An image of pylorus. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection or evidence of bleeding are evident.  There are signs of minor inflammation. There are no instruments visible in the image.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "correct",
+                "start": 0,
+                "end": 20
+            },
+            "20-101": {
+                "text": " There is an abnormality present, which is black in color, and centrally located.",
+                "type": "incorrect",
+                "start": 20,
+                "end": 101
+            },
+            "101-215": {
+                "text": " No anatomical landmarks, instruments, signs of inflammation, bleeding, infection, or foreign bodies are visible. ",
+                "type": "correct",
+                "start": 101,
+                "end": 215
+            },
+            "215-242": {
+                "text": "Only one polyp is observed.",
+                "type": "incorrect",
+                "start": 215,
+                "end": 242
+            }
+        }
+    },
+    "5c02f74e-0e88-4335-869c-0f70b2918c85.jpg": {
+        "original_text": "An image of pylorus. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmarks present are normal in color, and there are no foreign bodies or instruments visible in the image.",
+        "corrections": "An image of pylorus. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmarks present are normal in color, and there are no foreign bodies or instruments visible in the image.",
+        "annotations": {
+            "112-234": {
+                "text": "The anatomical landmarks present are normal in color, and there are no foreign bodies or instruments visible in the image.",
+                "type": "correct",
+                "start": 112,
+                "end": 234
+            },
+            "21-112": {
+                "text": "There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. ",
+                "type": "correct",
+                "start": 21,
+                "end": 112
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "correct",
+                "start": 0,
+                "end": 21
+            }
+        }
+    }
+}

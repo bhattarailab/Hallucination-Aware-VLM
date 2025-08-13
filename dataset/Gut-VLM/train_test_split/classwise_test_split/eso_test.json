@@ -1,0 +1,416 @@
+{
+    "bba3ca13-8cf8-4721-91ef-29a281655c3a.jpg": {
+        "original_text": "An image of pylorus. Anatomical landmarks are visible without signs of inflammation, bleeding, or infection. There is one polyp present, located towards the bottom-right. No instruments or foreign bodies are seen.",
+        "corrections": "An image of z-line. Anatomical landmarks are visible without signs of inflammation, bleeding, or infection. There is one polyp present, located towards the bottom-right. No instruments or foreign bodies are seen.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "start": 0,
+                "end": 20,
+                "type": "incorrect"
+            },
+            "21-108": {
+                "text": "Anatomical landmarks are visible without signs of inflammation, bleeding, or infection.",
+                "start": 21,
+                "end": 108,
+                "type": "correct"
+            },
+            "109-170": {
+                "text": "There is one polyp present, located towards the bottom-right.",
+                "start": 109,
+                "end": 170,
+                "type": "correct"
+            },
+            "171-213": {
+                "text": "No instruments or foreign bodies are seen.",
+                "start": 171,
+                "end": 213,
+                "type": "correct"
+            }
+        }
+    },
+    "c2e79235-b422-4cec-997a-973becd8cac4.jpg": {
+        "original_text": "An image of z-line. There is an abnormality, which appears red and white in color, present around the central area. The anatomical landmark is also visible. No polyps, instruments, foreign bodies, or signs of infection are detected. However, there are signs of inflammation and possible evidence of bleeding.",
+        "corrections": "An image of z-line. There is an abnormality, which appears red and white in color, present around the central area. The anatomical landmark is also visible. No polyps, instruments, foreign bodies, or signs of infection are detected. However, there are signs of inflammation and possible evidence of bleeding.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of z-line",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "20-115": {
+                "text": "There is an abnormality, which appears red and white in color, present around the central area.",
+                "start": 20,
+                "end": 115,
+                "type": "correct"
+            },
+            "116-156": {
+                "text": "The anatomical landmark is also visible.",
+                "start": 116,
+                "end": 156,
+                "type": "correct"
+            },
+            "157-232": {
+                "text": "No polyps, instruments, foreign bodies, or signs of infection are detected.",
+                "start": 157,
+                "end": 232,
+                "type": "correct"
+            },
+            "233-308": {
+                "text": "However, there are signs of inflammation and possible evidence of bleeding.",
+                "start": 233,
+                "end": 308,
+                "type": "correct"
+            }
+        }
+    },
+    "71a4671e-3257-4b64-9a8b-2d0b154ed7d0.jpg": {
+        "original_text": "An image of z-line. There appears to be an abnormality in red, localized centrally, with some signs of inflammation, no polyps, foreign bodies, or evident infection. There is no clear evidence of bleeding present, and one instrument is visible in the lower-left corner.",
+        "corrections": "An image of z-line. There appears to be an abnormality in red, localized centrally, with some signs of inflammation, no polyps, foreign bodies, or evident infection. There is no clear evidence of bleeding present, and one instrument is visible in the lower-left corner.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of z-line",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "20-165": {
+                "text": "There appears to be an abnormality in red, localized centrally, with some signs of inflammation, no polyps, foreign bodies, or evident infection.",
+                "start": 20,
+                "end": 165,
+                "type": "correct"
+            },
+            "166-269": {
+                "text": "There is no clear evidence of bleeding present, and one instrument is visible in the lower-left corner.",
+                "start": 166,
+                "end": 269,
+                "type": "correct"
+            }
+        }
+    },
+    "a877de82-3a2a-48b4-8a6b-e1c7bba51c1f.jpg": {
+        "original_text": "An image of z-line. No clear abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection are present. The anatomical landmark appears pinkish. No instruments are visible in the image.",
+        "corrections": "An image of z-line. There is visible dilated veins. The anatomical landmark appears pinkish. No instruments, foreign bodies, polyps, ulcer or bleeding is evident.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "correct"
+            },
+            "20-126": {
+                "text": "No clear abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection are present.",
+                "start": 20,
+                "end": 126,
+                "type": "incorrect"
+            },
+            "126-166": {
+                "text": "The anatomical landmark appears pinkish.",
+                "start": 126,
+                "end": 166,
+                "type": "correct"
+            },
+            "167-207": {
+                "text": "No instruments are visible in the image.",
+                "start": 167,
+                "end": 207,
+                "type": "correct"
+            }
+        }
+    },
+    "3ef58f64-0c9c-4985-8641-0db885028d9f.jpg": {
+        "original_text": "An image of pylorus. A brown abnormality is present near the center. No polyps or instruments are visible. There are no evident signs of inflammation, bleeding, infection, or foreign bodies. There is an anatomical landmark in the image; it is likely the pylorus.",
+        "corrections": "An image of z-line. There is no visible abnormality. No polyps or instruments are visible. There are no evident signs of bleeding, infection, or foreign bodies. There is an anatomical landmark in the image; it is likely the esophageal opening. There are signs of minor inflammation.",
+        "annotations": {
+            "0-20": {
+                "text": "An image of pylorus.",
+                "type": "incorrect",
+                "start": 0,
+                "end": 20
+            },
+            "20-68": {
+                "text": " A brown abnormality is present near the center.",
+                "type": "incorrect",
+                "start": 20,
+                "end": 68
+            },
+            "69-262": {
+                "text": "No polyps or instruments are visible. There are no evident signs of inflammation, bleeding, infection, or foreign bodies. There is an anatomical landmark in the image; it is likely the pylorus.",
+                "type": "correct",
+                "start": 69,
+                "end": 262
+            }
+        }
+    },
+    "23a964b5-fc4f-463f-a987-e6684d18a3a1.jpg": {
+        "original_text": "An image of z-line. There is a white abnormality present near the center of the image. The anatomical landmark is not clearly distinguishable. No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are evident.",
+        "corrections": "An image of z-line. There is a white abnormality present near the center of the image.The anatomical landmark, the esophageal opening, is predominantly pink in color. No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are evident.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "correct"
+            },
+            "20-85": {
+                "text": "There is a white abnormality present near the center of the image",
+                "start": 20,
+                "end": 85,
+                "type": "correct"
+            },
+            "87-142": {
+                "text": "The anatomical landmark is not clearly distinguishable.",
+                "start": 87,
+                "end": 142,
+                "type": "incorrect"
+            },
+            "143-241": {
+                "text": "No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are evident.",
+                "start": 143,
+                "end": 241,
+                "type": "correct"
+            }
+        }
+    },
+    "d7d6eea6-4cd4-4fc7-9d2e-3e388726d4b7.jpg": {
+        "original_text": "An image of z-line. The anatomical landmarks are a light pink color, with no visible abnormalities, inflammation, bleeding, or signs of infection.",
+        "corrections": "An image of z-line. There is a polypoidal mucosa noted. No instruments, bleeding, polyps or instruments are visible.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "correct"
+            },
+            "20-146": {
+                "text": "The anatomical landmarks are a light pink color, with no visible abnormalities, inflammation, bleeding, or signs of infection.",
+                "start": 20,
+                "end": 146,
+                "type": "incorrect"
+            }
+        }
+    },
+    "e7e495ed-5afd-4322-b8b2-5339b9f44a41.jpg": {
+        "original_text": "An image of Normal Cecum One polyp is located in the center bottom. There are no instruments, foreign bodies, signs of inflammation or infection, and no evidence of bleeding. Anatomical landmarks are present.",
+        "corrections": "An image of colon. One polyp is located in the center bottom. There are no instruments, foreign bodies, signs of inflammation or infection, and no evidence of bleeding. Anatomical landmarks are present.",
+        "annotations": {
+            "0-24": {
+                "text": "An image of Normal Cecum",
+                "start": 0,
+                "end": 24,
+                "type": "incorrect"
+            },
+            "25-66": {
+                "text": "One polyp is located in the center bottom",
+                "start": 25,
+                "end": 66,
+                "type": "correct"
+            },
+            "68-174": {
+                "text": "There are no instruments, foreign bodies, signs of inflammation or infection, and no evidence of bleeding.",
+                "start": 68,
+                "end": 174,
+                "type": "correct"
+            },
+            "175-208": {
+                "text": "Anatomical landmarks are present.",
+                "start": 175,
+                "end": 208,
+                "type": "correct"
+            }
+        }
+    },
+    "10f25b4e-9c94-4b8d-af0f-d4d820d52092.jpg": {
+        "original_text": "An image of Normal Z-line An apparent abnormality is visible, with a dark discoloration, centrally located. The anatomical landmark is pink in color. There are no polyps, instruments, or foreign bodies present. There are visible signs of inflammation, but no evidence of bleeding or infection.",
+        "corrections": "An image of z-line. There is no visible abnormality is visible. The anatomical landmark is pink in color. There are no polyps, instruments, or foreign bodies present. There are visible signs of inflammation, but no evidence of bleeding or infection.",
+        "annotations": {
+            "0-25": {
+                "text": "An image of Normal Z-line",
+                "start": 0,
+                "end": 25,
+                "type": "correct"
+            },
+            "26-106": {
+                "text": "An apparent abnormality is visible, with a dark discoloration, centrally located",
+                "start": 26,
+                "end": 106,
+                "type": "incorrect"
+            },
+            "108-149": {
+                "text": "The anatomical landmark is pink in color.",
+                "start": 108,
+                "end": 149,
+                "type": "correct"
+            },
+            "150-210": {
+                "text": "There are no polyps, instruments, or foreign bodies present.",
+                "start": 150,
+                "end": 210,
+                "type": "correct"
+            },
+            "211-293": {
+                "text": "There are visible signs of inflammation, but no evidence of bleeding or infection.",
+                "start": 211,
+                "end": 293,
+                "type": "correct"
+            }
+        }
+    },
+    "f93416dd-2fbe-4ffa-a62e-42c6096ac6b2.jpg": {
+        "original_text": "An image of z-line. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection apparent in this image.",
+        "corrections": "An image of z-line. There are no instruments, but seen signs of inflammation. There are no bleeding, foreign bodies, or infection apparent in this image.",
+        "annotations": {
+            "0-18": {
+                "text": "An image of z-line",
+                "start": 0,
+                "end": 18,
+                "type": "correct"
+            },
+            "20-131": {
+                "text": "There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection apparent in this image.",
+                "start": 20,
+                "end": 131,
+                "type": "incorrect"
+            }
+        }
+    },
+    "46b9af9b-df93-4cb4-9a27-fe2c758f1a29.jpg": {
+        "original_text": "An image of z-line. The abnormalities, if present, are reddish in color. The anatomical landmarks appear pink. There are no polyps, instruments, evidence of bleeding, foreign bodies, signs of inflammation, or infection in the image. The abnormality is located centrally.",
+        "corrections": "An image of z-line. The abnormalities, if present, are reddish in color. The anatomical landmarks appear pink. There are no polyps, instruments, evidence of bleeding, foreign bodies, signs of inflammation, or infection in the image. The abnormality is located centrally.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "correct"
+            },
+            "20-72": {
+                "text": "The abnormalities, if present, are reddish in color.",
+                "start": 20,
+                "end": 72,
+                "type": "correct"
+            },
+            "21-72": {
+                "text": "he abnormalities, if present, are reddish in color.",
+                "start": 21,
+                "end": 72,
+                "type": "correct"
+            },
+            "73-110": {
+                "text": "The anatomical landmarks appear pink.",
+                "start": 73,
+                "end": 110,
+                "type": "correct"
+            },
+            "111-232": {
+                "text": "There are no polyps, instruments, evidence of bleeding, foreign bodies, signs of inflammation, or infection in the image.",
+                "start": 111,
+                "end": 232,
+                "type": "correct"
+            },
+            "233-270": {
+                "text": "The abnormality is located centrally.",
+                "start": 233,
+                "end": 270,
+                "type": "correct"
+            }
+        }
+    },
+    "3662a9bc-b209-432b-9ab4-ca8ccd540b7c.jpg": {
+        "original_text": "An image of pylorus. The abnormality, a polyp, is red and located centrally. There is one polyp present. Anatomical landmarks are visible and pinkish. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "corrections": "An image of z-line. The abnormality, a polyp, is red and located centrally. There is one polyp present. Anatomical landmarks are visible and pinkish. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of pylorus",
+                "start": 0,
+                "end": 19,
+                "type": "incorrect"
+            },
+            "21-76": {
+                "text": "The abnormality, a polyp, is red and located centrally.",
+                "start": 21,
+                "end": 76,
+                "type": "correct"
+            },
+            "77-104": {
+                "text": "There is one polyp present.",
+                "start": 77,
+                "end": 104,
+                "type": "correct"
+            },
+            "105-150": {
+                "text": "Anatomical landmarks are visible and pinkish.",
+                "start": 105,
+                "end": 150,
+                "type": "correct"
+            },
+            "151-242": {
+                "text": "No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+                "start": 151,
+                "end": 242,
+                "type": "correct"
+            }
+        }
+    },
+    "6ea979d7-209b-49bf-ab40-c9dc4c277231.jpg": {
+        "original_text": "An image of z-line. The abnormality is diffusely present, with no clear anatomical landmarks or instruments visible. There are signs suggestive of infection, given the inflamed appearance.",
+        "corrections": "An image of z-line. The abnormality is diffusely present. No instruments visible. There are signs suggestive of infection, given the inflamed appearance. The anatomical landmark is the esophageal opening.",
+        "annotations": {
+            "0-19": {
+                "text": "An image of z-line.",
+                "start": 0,
+                "end": 19,
+                "type": "correct"
+            },
+            "20-116": {
+                "text": "The abnormality is diffusely present, with no clear anatomical landmarks or instruments visible.",
+                "start": 20,
+                "end": 116,
+                "type": "incorrect"
+            },
+            "117-188": {
+                "text": "There are signs suggestive of infection, given the inflamed appearance.",
+                "start": 117,
+                "end": 188,
+                "type": "correct"
+            }
+        }
+    },
+    "ad3bc1e3-2c9c-4cec-92bd-06a6fca991a5.jpg": {
+        "original_text": "An image of pylorus. The abnormality, if present, would be red. The anatomical landmark is pink. There are no polyps, instruments, or foreign bodies visible. Mild signs of inflammation are present, but there is no evidence of bleeding or infection.",
+        "corrections": "An image of z-line. There are no abnormalities. The anatomical landmark is pink. There are no polyps, instruments, or foreign bodies visible. Mild signs of inflammation are present, but there is no evidence of bleeding or infection.",
+        "annotations": {
+            "158-248": {
+                "text": "Mild signs of inflammation are present, but there is no evidence of bleeding or infection.",
+                "type": "correct",
+                "start": 158,
+                "end": 248
+            },
+            "97-157": {
+                "text": "There are no polyps, instruments, or foreign bodies visible.",
+                "type": "correct",
+                "start": 97,
+                "end": 157
+            },
+            "63-96": {
+                "text": " The anatomical landmark is pink.",
+                "type": "correct",
+                "start": 63,
+                "end": 96
+            },
+            "21-62": {
+                "text": "The abnormality, if present, would be red",
+                "type": "incorrect",
+                "start": 21,
+                "end": 62
+            },
+            "0-21": {
+                "text": "An image of pylorus. ",
+                "type": "incorrect",
+                "start": 0,
+                "end": 21
+            }
+        }
+    }
+}

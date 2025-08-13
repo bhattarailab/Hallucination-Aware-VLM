@@ -1,0 +1,2564 @@
+[
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmarks are normal in color, and no instruments or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/c1284847-f2a7-40a5-ae91-bd51e966578d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, polyp, inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark appears healthy. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0f04fc18-1740-4259-ac97-a7853a6e4486.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalities  present,  no polyps, instruments, signs of bleeding, infection, or foreign bodies. The anatomical landmarks are evident, and there are no visible signs of inflammation.",
+        "images": [
+            "/users/ms-swift/Images/4016dab7-abd0-42a2-bb51-69c5b617a263.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality. The anatomical landmark is reddish and there are no polyps, instruments, or signs of bleeding, infection, or foreign bodies. The appendix opening is centrally located and there are no indications of inflammation.",
+        "images": [
+            "/users/ms-swift/Images/d74a5fc4-5e4f-4c50-ba13-4ea06206e610.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is fecal remains(not abnormal) that appears to be yellow, located centrally. There are no visible polyps, inflammation, bleeding, or foreign bodies. Anatomical landmarks are evident, and one instrument is seen in the insert image, with no signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/afb4a8bd-1866-4ef9-86e0-b88c3d9818ce.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a yellow abnormality, possibly signs of inflammation but no polyps or instruments visible. The anatomical landmark is pink. There are no obvious signs of bleeding, infection, or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/1f6ad53d-5fe7-4abb-abc0-6b8acb4692d6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The mucosal surface is pinkish without any evident polyps or foreign bodies. There are no clear signs of abnormalities, inflammation, or infection, and no bleeding is visible. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/02f88968-7b55-468b-ae66-a0458c7d874f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There isn't any abnormality present. The surrounding anatomical landmark tissue is pinkish. There is appendix opening in the center. There are no visible signs of inflammation, bleeding, infection, or foreign bodies. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/561cc7f3-763c-42cf-b0f3-9e8909b0bf98.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, inflammation, bleeding, polyps, foreign bodies, and signs of infection are not present. The anatomical landmark is normal-colored, likely pink, which is cecum. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0233c35c-0bfd-4105-9756-7701de5f4901.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No clear signs of inflammation, bleeding, or infection. There are no instruments or foreign bodies visible. Anatomical landmarks are present, but no polyps or signs of infection mentioned.",
+        "images": [
+            "/users/ms-swift/Images/5e73a118-4d47-495e-bd89-98df4c156533.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, instruments, or foreign bodies. There are no signs of inflammation . there is no evidence of bleeding or infection. An anatomical landmark is cecum.",
+        "images": [
+            "/users/ms-swift/Images/6784a1ec-e4a5-4440-b472-ca99e1cf5533.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The prominent anatomical landmark is the surrounding intestinal wall.",
+        "images": [
+            "/users/ms-swift/Images/6591212c-eebc-4796-af9e-cf7b5ad4457d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There areno abnormalitis . The anatomical landmarks are generally normal in color. There are no visible polyps, instruments, signs of inflammation, infection, or bleeding, and no foreign bodies are evident.",
+        "images": [
+            "/users/ms-swift/Images/2da55236-f756-492f-96c2-4a3cb49a82fb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no an abnormality visible, colored orange-yellow is fecal remains, located centrally. No polyps, instruments, bleeding, or foreign bodies present. The anatomical landmark is pinkish. Signs of inflammation and infection are absent.",
+        "images": [
+            "/users/ms-swift/Images/32f1e163-9019-43e5-a2e8-54be53402202.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No Abnormalities or signs of inflammation or infection. The anatomical landmarks are pink. There are no polyps, instruments, signs of bleeding, or foreign bodies present. ",
+        "images": [
+            "/users/ms-swift/Images/4982f08b-975e-4570-8674-eeed7dca5f05.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/40d1b2ec-9b28-40cd-8996-0d06492351ef.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, evidence of bleeding, or foreign bodies. The anatomical landmark visible is a part of cecum. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/e8a4ffdc-4d9d-4aef-80c0-a599615ac53d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmark is pink in color. No instrument . There are no foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/83531089-a10a-4ab8-9143-3f8874aef824.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark appears to be light pink. No polyps were observed. No instruments, inflammation, bleeding, foreign bodies, or signs of infection were identified.",
+        "images": [
+            "/users/ms-swift/Images/820ebb5f-9327-4969-8ff9-de625d82db3e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is not clearly visible, and no polyps are present. The anatomical landmark is red, and there are no instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/1030eb9b-4bb4-494b-be3a-42dd71b262fa.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/7cd6e447-1567-4153-bde1-9e38d5f929fb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are  no abnormalities, polyps, instruments, inflammation, bleeding, signs of infection, or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/53067fc1-44d0-4023-a2a9-af6b31b4c3f8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No abnormalities, polyps, instruments, inflammation, infection, or foreign bodies are present. The anatomical landmark is of normal color, and there is no evidence of bleeding. The anatomical landmark present is cecum .",
+        "images": [
+            "/users/ms-swift/Images/2c28fb94-02ff-45ff-bd5d-155f25fa2b79.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is normal in color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/e2f734eb-4372-43bc-99c8-4f3cb1f464b2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/158e02a2-d752-4830-a528-ae2a21634b2e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no noticeable abnormality or polyp present. The anatomical landmarks are primarily light yellow and pink. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/8deb863b-7c69-4612-a235-632e14906e8d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no noticeable abnormality, polyps, signs of inflammation, bleeding, or infection. No foreign bodies are present. No instrument is visible. The anatomical landmark, the cecum is light brown.",
+        "images": [
+            "/users/ms-swift/Images/0f601b5d-d7ea-4bd1-af97-3fe395620a39.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, with no polyps present. The anatomical landmark is reddish. There are no instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/61e52f7b-9490-4cc4-8a1a-9bccb38d5db2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No polyps, anatomical landmarks, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infections are present. No abnormality is present.",
+        "images": [
+            "/users/ms-swift/Images/c3cc4e95-5ca0-4af2-a17a-5525b9a207a7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no clear abnormality present, no polyps are visible, and no anatomical landmarks are identified. There are no instruments . There are no signs of inflammation, bleeding, infection, or foreign bodies observed.",
+        "images": [
+            "/users/ms-swift/Images/bb99fe61-8d52-48e1-ae99-c21a5572d57e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, polyps, inflammation, bleeding, foreign bodies, or signs of infection present. There are no instruments in the image.",
+        "images": [
+            "/users/ms-swift/Images/1e2720c4-d073-4335-9315-3745f36df90e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalities. The anatomical landmarks are visible. No polyps are present. There are no signs of inflammation, bleeding, foreign bodies, or infection. No instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/791da276-ec04-4592-a20b-7f8431572676.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/7b3622e1-36c5-4d70-8742-3c14c7936f26.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The primary color visible is a normal reddish-orange mucosal tone, indicating no visible abnormalities, polyps, instruments, signs of inflammation, or bleeding. There are no foreign bodies, signs of infection or instruments are identifiable in the image.",
+        "images": [
+            "/users/ms-swift/Images/fc1c7f84-220f-4f26-b9ba-3674b01e4207.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No clear abnormalities or polyps are visible. The anatomical landmarks are pink. There is no evidence of inflammation, infection, bleeding, or foreign bodies. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/0c192d17-18ae-4731-bbb5-1117b8576466.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark is pinkish in color, and no abnormalities are apparent in the image.",
+        "images": [
+            "/users/ms-swift/Images/00b99f19-2c31-4c7c-931a-4c3b38d70d1a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No abnormalities, polyps, or signs of inflammation, infection, or bleeding are present. No instruments or foreign bodies are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/831db0a8-17a5-4d31-ba13-135c81a46b25.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecumus. There are no abnormalities. The anatomical landmark, the pylorus, is reddish. No polyp is visible. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are apparent in the image.",
+        "images": [
+            "/users/ms-swift/Images/4ef52d45-8595-4700-ab03-b11406cd197c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/d35bb433-48de-48e6-8821-6bc6a5c614b1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The image shows normal anatomical landmarks, with healthy tissue appearing as shades of pink and orange. Additionally, no instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/98df6a55-25ea-4387-a61b-815c623916bf.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No foreign bodies, polyps ,bleeding or inflamation  or instruments are seen. The anatomical view reveals the cecum, which appears to be normal and healthy in color.",
+        "images": [
+            "/users/ms-swift/Images/fcdf8263-d57e-4a18-98e0-d9c43ff31bcb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The prominent features are orange in color. There is no visible abnormality, polyp, instrument, inflammation, bleeding, foreign body, or sign of infection. The anatomical landmarks are evident and prominently displayed.",
+        "images": [
+            "/users/ms-swift/Images/e45b7e1e-a014-4301-bda3-7cac7f05ca97.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark appears reddish. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/367e3055-75c5-4fb2-af31-2f1b2894db3a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no apparent abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark appears normal in color, and there are no visible instruments in the image.",
+        "images": [
+            "/users/ms-swift/Images/0c9ae570-1bb9-44ee-96db-11deabcc791e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmarks appear pinkish, with no abnormalities, polyps, foreign bodies, or signs of inflammation, infection, or bleeding. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/3beead6a-3d8a-49a9-b231-faf06f7b614b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The image includes anatomical landmarks of the colon, but no instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/da185292-8d49-4291-a673-1053632d2fdc.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalitis  appear. Anatomical landmarks are visible, and no polyps, instruments, foreign bodies, signs of inflammation, infection, or bleeding are observed.",
+        "images": [
+            "/users/ms-swift/Images/60200e78-95ef-4dc2-be8f-002f1452316c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, inflammation, bleeding, signs of infection, or foreign bodies. The anatomical landmark present is healthy mucosal tissue, which is primarily pinkish in color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/ede04820-c31e-4916-9a60-de1bd8109a4f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalities . No anatomical landmarks or polyps are identifiable. No instruments, signs of inflammation, bleeding, foreign bodies, or infections are present in the visible area.",
+        "images": [
+            "/users/ms-swift/Images/d39704b3-6dff-45db-a46a-c8bb9d3f01dc.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark is pinkish in color and there is no evidence of any concerning features.",
+        "images": [
+            "/users/ms-swift/Images/01e023db-5c76-4c28-91ab-06e36cd31495.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalitis . The anatomical landmark appears to be reddish-orange mucosa. No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible. ",
+        "images": [
+            "/users/ms-swift/Images/32757af0-076e-409e-892c-298f99bac185.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The color of the tissue is normal, indicating no evident abnormality.",
+        "images": [
+            "/users/ms-swift/Images/03ee914b-190c-4aec-a05b-88f47b482908.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The color of the anatomical landmark is red. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/c22eeaea-0ccc-4d72-81d3-a6fb4275a50a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There appear to be no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection. The anatomical landmark is primarily orange. The image seems normal with no discernible issues.",
+        "images": [
+            "/users/ms-swift/Images/9cd26cfc-a4b9-497b-baf9-2133e2f8eb80.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is an anatomical landmark visible, but no instruments are present in the image.There are no abnormalitis . There are no polyps seen. , signs of inflammation, bleeding, foreign bodies, or infection present",
+        "images": [
+            "/users/ms-swift/Images/13a2abae-4c38-4c0a-936c-500b6c97a3cd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No visible abnormalities, polyps, inflammation, evidence of bleeding, foreign bodies, or signs of infection are present. The anatomical landmark is the pinkish intestinal lining, and no instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/1d119601-469e-4685-b6e6-6f9501b5a331.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/fcfc6589-cb35-4848-a667-6be1dc08940a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no visible abnormality, polyps, inflammation, or signs of infection or bleeding. The anatomical landmark  is cecum . No instruments or foreign bodies are seen in the image.",
+        "images": [
+            "/users/ms-swift/Images/2d73486e-9d3a-4c8f-bb51-5e1df14a52e5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is normal in color. There are no instruments visible in the image either.",
+        "images": [
+            "/users/ms-swift/Images/0db6d3b2-52ca-493c-aed2-040695867805.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No abnormalities, polyps, inflammation, infection, bleeding, or foreign bodies are observed. The anatomical landmark is light pink. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/49da2176-6517-42bb-b2dc-a152c705fa53.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are fecal remains in brown color and located near the center. The anatomical landmark is pink. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infections present. ",
+        "images": [
+            "/users/ms-swift/Images/8ea05ad6-2986-42af-a856-ccc3ac9d704c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No clear abnormalities, polyps, signs of inflammation, bleeding, or infection are present. The anatomical landmark appears healthy, and no instruments or foreign bodies are seen. The color of the tissue appears normal, and there are no notable issues observed.",
+        "images": [
+            "/users/ms-swift/Images/ded1855b-d337-47f5-ac6f-48bc1635c905.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is no evident abnormality, polyps, signs of inflammation, infection, bleeding, or foreign bodies. The anatomical landmark is cecum. No instruments are present, and no polyps are visible. The image shows the inner lining of the gastrointestinal tract.",
+        "images": [
+            "/users/ms-swift/Images/7dedfd42-79ba-446d-86d1-bb78350e14bf.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There's no notable abnormality, polyps, signs of inflammation, infection, evidence of bleeding, or foreign bodies present. The anatomical structure seems normal and no instruments can be seen in the image.",
+        "images": [
+            "/users/ms-swift/Images/3b9e52de-a724-4160-85c9-b0bf4066f94f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalitis , no polyp is visible. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/61f57795-b129-44f7-9100-a31f8a828071.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality is blue-green in color, and occupies a central position in the image. An anatomical landmark is visible, characterized by dark blue coloring. No polyps, instruments, signs of inflammation, infection, bleeding, or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/389c76a0-5206-4a9e-8904-754938f84146.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. Anatomical landmarks are visible, one polyp located centrally, and there are no instruments or signs of inflammation, bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/d26a11ac-fe40-4e87-8c0c-1f5087feb768.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. An abnormality is present and is white in color. The surrounding tissue appears reddish-pink, indicating possible inflammation around the abnormality. There is one polyp, and minor bleeding in the inage. No foreign bodies, or instruments. The anatomical landmark appears pink.",
+        "images": [
+            "/users/ms-swift/Images/5f3d6ed3-dca1-4fb0-a0e3-fd53fffa4cff.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No specific anatomical landmark is highlighted, but the abnormality is clearly visible in the center. Multiple polyps are present. There are no visible instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/d7594e2b-93d2-47cb-8e51-82f3804659b7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark appears pink  No instruments, inflammation, bleeding, infection, or foreign bodies are present. There is one polyp present in the center of the image.",
+        "images": [
+            "/users/ms-swift/Images/e05779e5-50c8-4340-886c-72e46782ce79.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a polyp, it located in the right of the image. The anatomical structures are normal in color.There is one polyp, but no instruments are present. Mild inflammation is visible but there are no signs of bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/3d6522a9-2ad7-41cb-91e6-cc4fe56189f5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. It shows a light-colored abnormality at the center, indicative of a cluster of polyps. There is no evident landmark or instrument. There are signs of inflammation and possible bleeding, but no foreign bodies or clear infection signs.",
+        "images": [
+            "/users/ms-swift/Images/98ecb81e-5a43-4a3b-96fd-03a02b715764.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of anormal colon. The anatomical landmark is the colon, appearing as reddish tissue. There is one visible polyp in the center of the image. No instruments, bleeding, foreign bodies are observed. There are signs of inflammation and infection.",
+        "images": [
+            "/users/ms-swift/Images/50210199-bd31-4b70-ab68-cbf64a47c871.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum . There is a polyp appears to be light blue located centrally  , There are no instruments, inflammation, bleeding, foreign bodies, signs of infection, or additional anatomical landmarks are observed.",
+        "images": [
+            "/users/ms-swift/Images/7a052613-d4c4-4645-9b5f-190cd5779161.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is a white-colored polyp located centrally. Anatomical landmarks are visible. No instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/512ee76f-9cfd-4af3-ab7f-1bb442046162.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue abnormality present, and a polyp is seen. The polyp is located below of the image, but only one polyp is observed. The anatomical landmarks and no inflammation, bleeding, foreign bodies, or signs of infection are noted. No instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/7d743ce9-2624-4c82-8f03-f4c0851683d3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality is present and is of a light beige color. The anatomical landmark appears pink. There is one polyp present in the lower center of the image. There are no instruments, signs of inflammation, bleeding, infection, or any foreign bodies visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/927bb7b7-7d03-475e-abde-3d1f4b691f7e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. Anatamical landmarks appear more reddish, sings of bleeding are preseant and no instruments, inflammation, foreign bodies, or signs of infections are present. The polyps are located in the lower part of the image.",
+        "images": [
+            "/users/ms-swift/Images/1b03c9ad-70b6-484f-b342-8614d5062e34.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The polyp is located centrally in the image, with no instruments, inflammation, bleeding, foreign bodies, or signs of infection present.",
+        "images": [
+            "/users/ms-swift/Images/e6c793fe-0e40-4597-87b5-d9733cbaf3de.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical structure, likely part of the cecum, is pinkish, and the abnormality, which is polyp, is located on the left side. There are no instruments, foreign bodies, or signs of infection evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/0f4eaa7a-c074-48c1-b01f-9117b94e1938.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality can be observed, characterized by a blue coloration. The image also shows areas with normal anatomical tissue, colored pink. Many polyps visibler, but there are signs of bleeding and possible inflammation. No instruments, foreign bodies, or signs of infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/f9a74476-8623-4a6e-8b21-c11a70ae8ab5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, likely a polyp, is blue and located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed. The anatomical landmark in pink is visible in the background. There is one polyp present in the image.",
+        "images": [
+            "/users/ms-swift/Images/73932b1b-fd8d-48bd-a788-efd3b7f7409b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, if present, is not clearly identifiable while the anatomical landmark is blue. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/a5cf92b3-ddaf-411b-ac9e-391a12469325.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. A notable anatomical landmark is observed, and there is one visible polyp , No instruments, no signs of inflammation, no bleeding,no foreign bodies, or infection. The abnormality is prominently located in the center of the image.",
+        "images": [
+            "/users/ms-swift/Images/b8ba70d6-bfa4-4ac1-9042-7b7cdfccc55b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is only one polyp observed located centrally. No Inflammations or signs of bleeding are present,  no instruments or foreign bodies are observed. Anatomical landmarks are visible, and there are no clear signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/7efed3ac-abef-453f-a526-5c5b9c19151d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue abnormality and a reddish anatomical landmark. One polyp is present, located centrally. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident.",
+        "images": [
+            "/users/ms-swift/Images/5d287826-e12a-4ca4-b949-9d0d491d1b34.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is one polyp, blue in color, present in the center. The anatomical landmark is pink in color and located near the periphery. There are no signs of inflammation, bleeding, infection, or foreign bodies, and no instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/555ed1c9-b57e-4110-a14c-c5f17c344bfe.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is not distinctly identifiable. One polyp is present and located centrally. There are indications of inflammation and signs of bleeding in the image. No instruments, foreign bodies, or clear signs of infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/a70fecce-0464-4144-80d2-052ae4e98257.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is one  instrument appers in lower part of the image. No polyps, the anatomical landmarks appear blueish, with no visible signs of inflammation, infection, or bleeding.",
+        "images": [
+            "/users/ms-swift/Images/0ecfc13c-9213-4738-9365-ca94a5dd3eed.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. An abnormality is present and is colored white. There are no visible anatomical landmarks, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or signs of infection. The abnormality is centrally located in the image. There is one polyp present in the center of the image.",
+        "images": [
+            "/users/ms-swift/Images/e700910a-7e00-44bc-8453-0d09372ad5c9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is the blue-colored colon mucosa. There is one polyp present located centrally. No instruments or foreign bodies are visible, and there are no signs of inflammation, bleeding, or infection.",
+        "images": [
+            "/users/ms-swift/Images/1a0e5a49-c3d9-47be-bc09-25bbe93cfa57.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. A blue abnormality is present in the image. The anatomical landmark appears pink. There's one polyp present in the center-right. No signs of inflammation, bleeding, infection, or foreign bodies are visible. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/0a693b92-89c9-48ea-9ad8-dc1d2f84aaca.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue-colored substance likely used for staining,there is one polyp in the upper section of the image. The anatomical landmark is the cecum, which is reddish-pink, indicating no signs of inflammation, infection, or bleeding. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/e7e5f165-2c56-4333-82aa-4fc8045e8e1c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality colored yellow is present in the center. The anatomical tissue surrounding the area is light pink and blue. No polyps or instruments are visible, and there are signs of inflammation but no evidence of bleeding, infection, or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/a0685864-7196-4ce9-9c35-2ee706ab181e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality is present, which is white and roughly in the center. There is one polyp ,but no  anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/5bc3f392-f00f-4978-8f0d-02bb1f54f4c0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a blue abnormality present. The anatomical landmark is pink. The abnormality is centralized on the right side. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image. There is one polyp present in the left the image. ",
+        "images": [
+            "/users/ms-swift/Images/88d77dd6-c870-497c-b156-96417620efe1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There one polyp present, located in the lower right of the image. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible. The anatomical landmark appears pink.",
+        "images": [
+            "/users/ms-swift/Images/85ef9795-f799-4397-b6d0-63db1db8196b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is greenish-white and located centrally.There is one polyp present in the lowe center of the image.The anatomical landmark is colon wall. No instruments or foreign bodies. There are signs of minor inflammation and infection.",
+        "images": [
+            "/users/ms-swift/Images/93bfd318-0523-4ff8-ad19-93b4eb329ed5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark, the surrounding tissue, appears blue.There is one polyp located centrally. There are no signs of inflammation, bleeding, infection, foreign bodies, or instruments present.",
+        "images": [
+            "/users/ms-swift/Images/3c229b33-6e5c-4c02-afae-cdd5ea65cf72.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is a white polyp, located centrally. The landmark appears to be blue. There is one polyp present. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/4d80eeda-2481-4cc8-84cb-e80d119ce4c5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a blue-colored abnormality present. No polyps, signs of inflammation, bleeding, infection, or foreign bodies are evident. No instruments are present and the abnormality is located centrally.",
+        "images": [
+            "/users/ms-swift/Images/6c1f1b20-6f67-4491-b153-adc8e3936bce.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality, if appears bluish, and the anatomical landmarks have a brownish color. No polyps, instruments, signs of inflammation, bleeding, or infection are visible. There are no foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/4dc3a037-c552-4c9a-9159-2bfc448ad957.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. A blue-stained abnormality is present on the left side. No anatomical landmarks or polyps are visible. There are no instruments, signs of inflammation, evidence of bleeding, foreign bodies, or signs of infection observable in the image.",
+        "images": [
+            "/users/ms-swift/Images/e3fd6b64-6901-47e3-acff-376f5e596863.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a dark blue abnormality present on the right side. The anatomical landmark is flesh-colored. No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/12bb7f55-8434-4f31-b1e1-93ecd0f67051.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is visually normal in color, situated in the periphery. There appears a bluish dye in the center. No instrument is present. There are no signs of inflammation and evidence of bleeding, and no foreign bodies or signs of infection are seen.",
+        "images": [
+            "/users/ms-swift/Images/4c430475-576e-424d-a1f7-d26a6ca7b521.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a blue abnormality present in the image with an anatomical landmark colored in reddish-pink. No polyps, instruments, foreign bodies, signs of inflammation, infection, or evidence of bleeding are observed. The blue abnormality is located centrally in the image.",
+        "images": [
+            "/users/ms-swift/Images/c7ca5137-2a2c-43bd-a430-13ef512a0c9d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is one blue abnormality located centrally. There are no signs of inflammation, bleeding, instruments, infection, or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/87067da4-8aac-4f04-8641-9a67365510aa.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is green-blue  in color. There is an anatomical landmark visible, and there are no polyps present. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are noted in the image. The abnormality is on the left side.",
+        "images": [
+            "/users/ms-swift/Images/2a2592fc-4557-4276-8c96-d7ac1ee49d37.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no polyps, signs of inflammation, bleeding, or infection. No anatomical landmarks or foreign bodies are present. There is blue dye on the image.",
+        "images": [
+            "/users/ms-swift/Images/50e85dfb-7d6c-4158-bf44-c17d4ed54ab3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality appears bluish, with no distinct anatomical landmarks present. No polyps or instruments are visible, nor are there signs of inflammation, bleeding, infection, or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/7ad847a5-c570-4225-88cd-a74196096339.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is a blueish area, and there is also a red spot indicating possible bleeding. An anatomical landmark is visible, but no polyps, instruments, signs of inflammation, infection, or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/abe3e92d-dd24-46c4-b009-a7149a6b75f0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, a lesion, is blue in color and located on the right side. The anatomical landmark, the intestinal lining, is pink in color. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present.",
+        "images": [
+            "/users/ms-swift/Images/b18e7b6b-8a3c-4d3f-aede-42cef78ec091.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality appears to be bluish in color, located on the left side. There are no visible polyps, no inflammation, bleeding, foreign bodies, or signs of infection. No instruments or clear anatomical landmarks are visible.",
+        "images": [
+            "/users/ms-swift/Images/c8cb218f-5f64-409e-a1a3-0cb4163a24f4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality might be bluish in color, with red tissue being the anatomical landmark. There are no visible polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection present in the image. The abnormality is located towards the lower left quadrant.",
+        "images": [
+            "/users/ms-swift/Images/bac98c43-6e7e-4287-92de-119100adf1de.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is an abnormality present in the upper part of the image. No polyps or anatomical landmarks are observable. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection in the image. The abnormality is located in the upper part of the image.",
+        "images": [
+            "/users/ms-swift/Images/32425083-f790-4977-b2b5-b8f801e099c6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a noticeable abnormality, which is blue-grey in the center of the image. No polyps are present, but abnormalities and anatomical landmarks are visible. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/c424e137-66dc-449d-a70e-e6f28ea7a49d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The surrounding anatomical landmark is cream-colored, and there are no signs of inflammation, bleeding, infection, or foreign bodies. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/cce35aa9-c34d-4f7c-ad74-e584c8f4a6b1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The image shows a blue-stained anatomical landmark, with no clear abnormalities, polyps, instruments, inflammation, bleeding, infection, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/9f68ecd9-b57c-4d44-b171-d076fb049291.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality, possibly a polyp, is white and located in the lower right of the image. Anatomical landmarks might be present but are not distinctly identifiable. There are no visible instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/bbdb51fd-74c3-4dcc-9f2a-348992bd7656.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark appears blue due to dye application, with no instruments present.",
+        "images": [
+            "/users/ms-swift/Images/8fc7d933-245f-48ba-b0db-ac2a125b4d81.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue-colored abnormality present. The surrounding anatomical landmark is pink in color. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are present.",
+        "images": [
+            "/users/ms-swift/Images/ac578e96-77a2-446a-8a87-021613273dc3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum . There is a blue abnormality present with signs of inflammation and bleeding on the right. There are no polyps, instruments, or foreign bodies visible. No anatomical landmarks are identified, and there is no clear evidence of infection.",
+        "images": [
+            "/users/ms-swift/Images/e32f7f15-7ac8-4c4c-ad2f-bd1812bfb87a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No polyps or instruments are visible. The abnormality is central, with signs of bleeding but no obvious inflammation, infection, or foreign bodies detected.",
+        "images": [
+            "/users/ms-swift/Images/3d47d74a-fcdf-469e-940b-cd6999a79556.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is one instrument seen down-right of the image. There are no polyps, anatomical landmarks,  signs of inflammation, evidence of bleeding, or foreign bodies visible in the image. There are also no signs of infection present.",
+        "images": [
+            "/users/ms-swift/Images/05607d9c-9577-4190-8040-ee73f7982241.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue abnomality located cantarlly. The anatomical landmark appears in a pinkish-red color. There are no polyps, instruments, bleeding, foreign bodies, or signs of inflammation or infection present.",
+        "images": [
+            "/users/ms-swift/Images/2781dc1f-d88f-48cc-982e-9f0f147eb6f6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality (resected polyp) is blue-colored and located near the center of the image. There are no instruments, inflammation, bleeding, foreign bodies, or signs of infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/5c063c9e-07f3-4ea3-bd09-3a4fc79ae9a4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is visible abnormality, but no  polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmarks present are a pinkish color, and no instruments are observed in the image. ",
+        "images": [
+            "/users/ms-swift/Images/cbefd66f-20df-4d31-aa62-73ac73713e9d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no visible abnormality, no polyps, and no sign of inflammation, bleeding, or infection. The anatomical landmark appears bluish. No instruments or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/400af79d-4386-4d62-b755-94acc38f1d3b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality is bluish-green in color, located at the center. No polyps, inflammation, bleeding, infection, anatomical landmarks, instruments, or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/894bded3-493a-482f-b8b0-737d9c23f48d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There appears to be a blue-colored abnormality on the right side. The main anatomical landmark is pink. No polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/63fd6c97-9c00-4aef-8594-c72e539ec4ca.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a noticeable abnormality colored blue. The surrounding anatomical structures are in shades of pink and red. No polyps, instruments, or signs of infection, inflammation, or bleeding are observed. The blue-colored abnormality is prominently located in the center of the image.",
+        "images": [
+            "/users/ms-swift/Images/15cfd43f-7118-4169-9725-e7badac83d05.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality present is blue in color. The surrounding anatomical landmarks are reddish-brown. No polyps are evident, and there are no apparent instruments. There's no sign of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/c4364082-40e4-41e5-ab67-0459aad4983e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a blue abnormality,  located towards the right area of the image. No polyps are present. The image contains no identifiable anatomical landmarks, instruments, foreign bodies, or signs of inflammation or infection.",
+        "images": [
+            "/users/ms-swift/Images/0d4173fc-096a-4a7c-b431-939f36b44908.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality appears blue-green, with surrounding tissue being reddish-pink. No polyps, instruments are present. The image shows signs of inflammation with no evidence of bleeding, infection, or foreign bodies. ",
+        "images": [
+            "/users/ms-swift/Images/622b5c30-78c5-4330-beaf-d4cfcb7c8ce0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is an abnormality, which is black and located centrally. There is no clear anatomical landmark or evident polyps, instruments, foreign bodies, signs of inflammation, infection, or bleeding present.",
+        "images": [
+            "/users/ms-swift/Images/09e7389d-4965-4dd5-a781-f396d8cd87c2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. Anatomical landmarks are visible without signs of inflammation, bleeding, or infection. There is one polyp present, located towards the bottom-right. No instruments or foreign bodies are seen.",
+        "images": [
+            "/users/ms-swift/Images/bba3ca13-8cf8-4721-91ef-29a281655c3a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is an abnormality, which appears red and white in color, present around the central area. The anatomical landmark is also visible. No polyps, instruments, foreign bodies, or signs of infection are detected. However, there are signs of inflammation and possible evidence of bleeding.",
+        "images": [
+            "/users/ms-swift/Images/c2e79235-b422-4cec-997a-973becd8cac4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There appears to be an abnormality in red, localized centrally, with some signs of inflammation, no polyps, foreign bodies, or evident infection. There is no clear evidence of bleeding present, and one instrument is visible in the lower-left corner.",
+        "images": [
+            "/users/ms-swift/Images/71a4671e-3257-4b64-9a8b-2d0b154ed7d0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is visible dilated veins. The anatomical landmark appears pinkish. No instruments, foreign bodies, polyps, ulcer or bleeding is evident.",
+        "images": [
+            "/users/ms-swift/Images/a877de82-3a2a-48b4-8a6b-e1c7bba51c1f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality. No polyps or instruments are visible. There are no evident signs of bleeding, infection, or foreign bodies. There is an anatomical landmark in the image; it is likely the esophageal opening. There are signs of minor inflammation.",
+        "images": [
+            "/users/ms-swift/Images/3ef58f64-0c9c-4985-8641-0db885028d9f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is a white abnormality present near the center of the image.The anatomical landmark, the esophageal opening, is predominantly pink in color. No polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are evident.",
+        "images": [
+            "/users/ms-swift/Images/23a964b5-fc4f-463f-a987-e6684d18a3a1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is a polypoidal mucosa noted. No instruments, bleeding, polyps or instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/d7d6eea6-4cd4-4fc7-9d2e-3e388726d4b7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. One polyp is located in the center bottom. There are no instruments, foreign bodies, signs of inflammation or infection, and no evidence of bleeding. Anatomical landmarks are present.",
+        "images": [
+            "/users/ms-swift/Images/e7e495ed-5afd-4322-b8b2-5339b9f44a41.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality is visible. The anatomical landmark is pink in color. There are no polyps, instruments, or foreign bodies present. There are visible signs of inflammation, but no evidence of bleeding or infection.",
+        "images": [
+            "/users/ms-swift/Images/10f25b4e-9c94-4b8d-af0f-d4d820d52092.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no instruments, but seen signs of inflammation. There are no bleeding, foreign bodies, or infection apparent in this image.",
+        "images": [
+            "/users/ms-swift/Images/f93416dd-2fbe-4ffa-a62e-42c6096ac6b2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The abnormalities, if present, are reddish in color. The anatomical landmarks appear pink. There are no polyps, instruments, evidence of bleeding, foreign bodies, signs of inflammation, or infection in the image. The abnormality is located centrally.",
+        "images": [
+            "/users/ms-swift/Images/46b9af9b-df93-4cb4-9a27-fe2c758f1a29.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The abnormality, a polyp, is red and located centrally. There is one polyp present. Anatomical landmarks are visible and pinkish. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/3662a9bc-b209-432b-9ab4-ca8ccd540b7c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The abnormality is diffusely present. No instruments visible. There are signs suggestive of infection, given the inflamed appearance. The anatomical landmark is the esophageal opening.",
+        "images": [
+            "/users/ms-swift/Images/6ea979d7-209b-49bf-ab40-c9dc4c277231.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities. The anatomical landmark is pink. There are no polyps, instruments, or foreign bodies visible. Mild signs of inflammation are present, but there is no evidence of bleeding or infection.",
+        "images": [
+            "/users/ms-swift/Images/ad3bc1e3-2c9c-4cec-92bd-06a6fca991a5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, a polyp, is red in color, located on the right side of the image. There is one polyp visible, indicating inflammation and potential signs of minor bleeding. No instruments, anatomical landmarks, foreign bodies, or infections are observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/78f877f3-083c-40ef-a82c-65764f6ab285.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The abnormality, a polyp, is pinkish and is present in the central part of the image. Anatomical landmarks are visible but no instruments, signs of inflammation, bleeding, infection, or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/df58d6ca-842d-48f4-8f57-a15a2e104bdd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is a pink polyp as the abnormality located centrally. The anatomical landmark, visible surrounding tissue, is pink. A single polyp is present. There are no instruments, inflammation, bleeding, foreign bodies, or signs of infection visible.",
+        "images": [
+            "/users/ms-swift/Images/0b24da49-ad71-4965-95f9-12a6d0d60906.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is an abnormalities seem like  polyp on the hight of image, There are no anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or signs of infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/bb6072e5-26f9-4a1a-9d0c-8fcb99de2f84.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are many polyps located centrally. No signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmarks appear normal with no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/67e1310a-37d8-4689-8fee-f7c411b19918.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is one white-colored polyp visible, and it is located in the center-right of the image. There is some redness indicating possible inflammation, but no signs of infection, bleeding, foreign bodies, or instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/3d8f51f7-f49d-4e4b-9bfb-cc9be3fec5e2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The polyp, located centrally in the image, seems solitary. No anatomical landmarks, instruments, foreign bodies, signs of inflammation, infection, or bleeding are evident.",
+        "images": [
+            "/users/ms-swift/Images/0f14b105-4cad-4ca5-a43a-796cded9f07e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a one polyp  present. The anatomical landmark is a normal-colored mucosal fold. There are no instruments, inflammation, bleeding, foreign bodies, or signs of infection visible in the image. The abnormality is located centrally within the image.",
+        "images": [
+            "/users/ms-swift/Images/9507e070-3dc1-466e-ac10-aeb0e7c95edd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark and surrounding tissue appear healthy without signs of inflammation or infection. No bleeding or foreign bodies are evident. One polyp, located centrally, is present with a single instrument visible in the lower part of the image.",
+        "images": [
+            "/users/ms-swift/Images/ec06080b-a2a0-40d3-97f7-313297ef8adb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no abnormalities. The anatomical landmark is pink.No polyps. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/d3578743-78bd-48c2-a81a-1cfad04c383d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a single visible polyp, which is the same color as the surrounding tissue. No other abnormalities, anatomical landmarks, instruments, inflammation, bleeding, foreign bodies, or signs of infection are present. The polyp is located toward the lower center of the image.",
+        "images": [
+            "/users/ms-swift/Images/7b701543-fd81-408b-9230-f3ca54d3c799.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark's color is consistent with the surrounding tissue. There's one polyp present and no visible signs of inflammation, bleeding, infection, foreign bodies, or instruments.",
+        "images": [
+            "/users/ms-swift/Images/a5fb73eb-d77a-4737-b0b5-3b39814e14de.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, a polyp, is light brown. The anatomical landmark, surrounding tissue, is pink. One polyp is present centrally. There are no instruments, signs of bleeding, foreign bodies, or infections, but there is minor inflammation.",
+        "images": [
+            "/users/ms-swift/Images/61f1c0fe-c4df-448d-a2c9-4aaccf82458c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. A polyp, pink in color, is present in the center. The anatomical landmark is the intestine, pink in color. There is one polyp visible. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/7c5031b5-5f93-479b-a2bd-61736f1ee140.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a polyp  present in the Upper right section of the image  identifiable by its differently colored appearance . The anatomical landmark is cecum , but there are no visible instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/03adaef7-3900-4624-9ffa-6df25d1ee70c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is one polyp located centrally. There are no instruments, signs of inflammation, or evidence of bleeding, infection, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/1c6cd97d-b81c-418b-8e80-3439a5f33a1e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomic landmark is normal and pink. There is one polyp. There are no signs of inflammation, bleeding, foreign bodies, or infection. An instrument is visible in the bottom right.",
+        "images": [
+            "/users/ms-swift/Images/7e5fd908-7bf8-4171-99af-196c8fdf0624.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality present is a polyp, which is light brown in color. The anatomical landmark and background tissue are pinkish-brown. There is one polyp in the center of the image. No instruments, signs of inflammation, bleeding, infection, or foreign bodies are visible.",
+        "images": [
+            "/users/ms-swift/Images/eb3ad0b1-8f9c-4c57-8af1-fd34b05406fa.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is one notable polyp present. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident. There is one polyp visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0eed63cb-174b-4aca-b473-75a01c41025f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The anatomical landmark appears pink in color. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are present. The abnormalities are yellow and located centrally. There are three polyps visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0589644e-cdb7-413a-8ea0-c26ff26707c9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality is pink but anatomical landmarks are not specified. One polyp is present in the center. There are no instruments visible, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/ca3f724c-c1ae-4381-84cf-acdb07cfa424.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The brownish-pink mucosa indicates an anatomical landmark. There is one polyp present. The abnormality is located on the polyp. No instruments, signs of inflammation, bleeding, foreign bodies, or infections are evident.",
+        "images": [
+            "/users/ms-swift/Images/b92c7c77-ca09-4efb-b4a1-74d0b56038d6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, a polyp, is pink in color and located on the right side of the image. The anatomical landmark and signs of inflammation are visible. No instruments, foreign bodies, or signs of bleeding and infection are present.",
+        "images": [
+            "/users/ms-swift/Images/7c842733-aae9-41d6-8b81-8f5f891bfa68.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. A yellow abnormality is present, located in the upper center of the image. The anatomical landmarks appear red. One polyp is visible. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are noted.",
+        "images": [
+            "/users/ms-swift/Images/0a8570b0-405c-4880-8800-a1e2a310a03c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no signs of inflammation, bleeding, infection, or foreign bodies. An anatomical landmark is visible, and no instruments are present in the image. There is one polyp located centrally.",
+        "images": [
+            "/users/ms-swift/Images/9c0bebe8-0a32-44ab-952a-484161586ac1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is an abnormality present in the form of a single polyp, colored pinkish, near the center of the image. The anatomical landmark appears pink in color, and no instruments, signs of inflammation, bleeding, or infection, nor foreign bodies are seen.",
+        "images": [
+            "/users/ms-swift/Images/664c57ef-32b3-4573-aa45-d83d96b3c967.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is pinkish-brown with  visible polyp located centrally ,no other  abnormalities, signs of inflammation, infection, or bleeding. There are no foreign bodies or instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/82447158-b261-4128-896f-23dc0366d4da.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, a polyp, is light pink or whitish. The surrounding anatomical landmark is reddish. There is one visible polyp, positioned on the right. There are no signs of inflammation, bleeding, foreign bodies, or infection. No instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/53aa8af7-1846-49eb-83ec-2cc531b6babd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is light pink. There is one polyp present in the center. No other abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection are evident.",
+        "images": [
+            "/users/ms-swift/Images/c7c598d0-a21d-4cb3-aceb-e697d25c84f6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No instruments, signs of inflammation, bleeding, foreign bodies, or infections are detected.There is one polyp located in right side of the image.",
+        "images": [
+            "/users/ms-swift/Images/a1f89f5e-cfb1-4c24-bf98-08f92859a3ca.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality appears reddish, indicating inflammation and potential bleeding. Anatomical landmarks are normal in color. There isone polyp located towards the center-left of the image. There are no signs of infection, instruments, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/2e27cdb5-5f92-4b8b-bda3-175883b86762.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality is present as a polyp colored similarly to the surrounding tissue. The anatomical landmark is light pink.  There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection detected in the image.",
+        "images": [
+            "/users/ms-swift/Images/4ac59a5d-7b24-4b77-a7af-fc7615493ea8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is brown, with no signs of inflammation, bleeding, infection, or foreign bodies. There are no instruments visible in the image.There is one polyp on the right side of the image.",
+        "images": [
+            "/users/ms-swift/Images/729409f2-b4fb-4a76-b177-da45a8cc792e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark, which is cecum, appears pink. One polyp seen centrally but no instruments are visible. There are signs of inflammation and possible bleeding, with no foreign bodies or infections apparent.",
+        "images": [
+            "/users/ms-swift/Images/20db5a9d-b150-41c3-b03d-4f65b5101132.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. No instruments, foreign bodies are evident. The anatomical landmark is normal colored. No signs of inflammation, infection and minor bleeding are present.",
+        "images": [
+            "/users/ms-swift/Images/589436f6-384e-4b12-8416-fea23c56fdc9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There is one polyp visible. There are no instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The anatomical landmark appears pink.",
+        "images": [
+            "/users/ms-swift/Images/c7246fd5-2e6a-47ae-821a-217f43b674a6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No anatomical landmarks or instruments are present. There are no signs of inflammation, bleeding, infection, or foreign bodies.There is one polyp located centrally.",
+        "images": [
+            "/users/ms-swift/Images/44011fa3-7954-4c63-a8c9-57134776a717.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmarks, likely indicating the stomach or esophagus, are normal in color. No instruments, bleeding, or foreign bodies are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/b9726a70-6e02-4907-8f3a-4b8b0285d41c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities, polyps, or foreign bodies present. The anatomical landmark is pinkish. No instruments, signs of inflammation, infection, or evidence of bleeding are observed.",
+        "images": [
+            "/users/ms-swift/Images/7e9988db-8f64-4bdb-b382-b2a9416ab751.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities and the anatomical landmark is  pink. There are no polyps. No instruments, bleeding, foreign bodies, or signs of inflammation or infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/6d3405db-4ab3-46c4-b42c-c81caa5dfca3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is pink. There are no polyps, abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/7dbffc3c-7c7c-498a-a719-163808fb7a44.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The typical color of the anatomical landmark appears normal.",
+        "images": [
+            "/users/ms-swift/Images/2f0ad25b-8dfe-413a-a87e-6e961e2558e7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, or infection  and there's no evidence of foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/dfc00ba0-40d2-42b0-9ac2-3ea974a5e20e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities, located centrally. The surrounding anatomical landmark appears healthy and pink with no signs of inflammation, bleeding, infection, or foreign bodies. Additionally, no medical instruments are visible in this image.",
+        "images": [
+            "/users/ms-swift/Images/9b7c06e8-d8c2-4542-af57-2767e83281c3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no visible abnormality, polyps, inflammation, bleeding, foreign bodies, or signs of infection present. The anatomical landmark, likely the esophageal lumen, is tan to pink in color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/4dbcd959-a282-4cd0-8147-f4fc5e989d6a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is pink. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/e9a7b759-6bfb-4f38-88bb-92f51b6f8bb9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality is seen in the image. No polyps, instruments, or foreign bodies are seen. Signs of inflammation are observed, but no clear signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/fc7a12c8-250d-4568-83be-d878dae07b4f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities  in the image. The  pink area is the anatomical landmark. There are no polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/0aa2e5c7-f32c-416c-920c-3504f1438ee1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There do not appear to be any abnormalities, polyps, inflammation, bleeding, or signs of infection. No foreign bodies or instruments are present. The anatomical landmark present is of normal color.",
+        "images": [
+            "/users/ms-swift/Images/d6df0145-3273-4889-a110-37d7243b95f5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is pink. No instruments, inflammation, polyps, or signs of infection or bleeding are observed.",
+        "images": [
+            "/users/ms-swift/Images/0ebab707-f141-42f5-b1ee-9d887dbe242d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no apparent abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmarks are a natural pink color and there are no instruments visible.",
+        "images": [
+            "/users/ms-swift/Images/fe783b66-c307-4adc-bfe5-1fc0d603a340.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities present. The surrounding anatomical landmark is pink. There are no polyps, inflammation, signs of bleeding, or infection visible. ",
+        "images": [
+            "/users/ms-swift/Images/0a0ce428-e7ee-4a42-9e60-b58b7cb6a06f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities, polyps, visible inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmark present is of normal color. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/b6780abc-5afc-483c-a320-2eb64353c44f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, or signs of infection. No instruments, or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/d9a75a4c-e5f1-49b3-9bd0-9efa61737c74.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, or foreign bodies are visible. The anatomical landmarks appear normal in color. No instruments, signs of inflammation, infection, or bleeding are observed.",
+        "images": [
+            "/users/ms-swift/Images/e3c008df-e2a4-48f0-814a-8b06254f8ee0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The anatomical landmarks are normal in color and there\u2019s no evidence of abnormalities.",
+        "images": [
+            "/users/ms-swift/Images/a47588f1-e876-4991-9304-b9cedfa292ab.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality is seen in the image. The surrounding anatomical landmark is pinkish. No polyps, instruments, or signs of infection, inflammation, or bleeding are evident, and there are no foreign bodies detected.",
+        "images": [
+            "/users/ms-swift/Images/bbe363f1-166b-4836-9491-e81e125122f6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmarks appear light pink, and no instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/d64d18d3-4356-40e7-8346-32deb619a68c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is of normal color. There are no polyps, signs of inflammation, infection, or bleeding present. No instruments visible.",
+        "images": [
+            "/users/ms-swift/Images/28bfe970-150a-4b8f-b392-ed080cac4dfb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus.There are no visible abnormalities. The anatomical landmark appears to be pink. There are no polyps, no instruments, no signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/1f0fda8a-0aca-472f-814e-82c93a9bd21a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no visible abnormality, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is pinkish in color, and there are no instruments in the image.",
+        "images": [
+            "/users/ms-swift/Images/9290f29e-740f-41dc-8949-cc073d41cbfe.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No noticeable abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark is normal and pink in color with some yellowish areas. There are no visible polyps or instruments, and the image does not show signs of any abnormalities.",
+        "images": [
+            "/users/ms-swift/Images/6b428229-461e-432f-853c-b391796e7af4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no visible abnormality, polyp, or sign of inflammation, infection, or bleeding. The anatomical landmark is pylorus, appearing red. No instruments or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/ee52d6c4-a9a3-4816-805e-ca38becc2b64.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed. The anatomical landmark is pinkish in color.",
+        "images": [
+            "/users/ms-swift/Images/7f607ea9-1c1a-4e65-9888-7db35c807f59.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, or inflammation, and no signs of infection, bleeding, or foreign bodies. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/5cb44d15-b550-4b38-8dbb-30f908de309c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is typically pink. There are no visible polyps, abnormalities, instruments, signs of inflammation, bleeding, infections, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/6a9c049b-0207-4270-ac33-28f1122c1b7e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no clear abnormality present, the anatomical landmark is light pink, and there are no polyps. No instruments, foreign bodies, inflammation, infection, or bleeding are evident. The overall appearance suggests no significant abnormalities.",
+        "images": [
+            "/users/ms-swift/Images/ae77941e-fab3-4b3c-b8b6-c0559d58870c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present; the anatomical landmark is light pink.",
+        "images": [
+            "/users/ms-swift/Images/cac3e8f2-b742-4f84-b2e9-b86204528be9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is of normal color.",
+        "images": [
+            "/users/ms-swift/Images/b723b2c8-6aaa-4d0a-a0a1-945b48c84653.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no clear abnormality or polyp present. The anatomical landmark appears pink. No instruments are visible. There are no signs of inflammation, bleeding, infection, or foreign bodies detected in the image.",
+        "images": [
+            "/users/ms-swift/Images/cf7f4855-53d8-4c5c-b3d0-44c4e23b4354.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is a red abnormality near the center, possibly inflammation, with no polyps or foreign bodies visible. The anatomical landmark is pink. No instruments or bleeding are present, and there are no signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/d6ea9227-ba72-4ddf-85ee-8814989dcca2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies. The anatomical landmark is the pylorus, and it appears healthy and pink. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/1be5f072-bd1d-4889-a772-2ad69c1347cd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalitie,  No polyps, inflammation, signs of infection, or bleeding are evident. An anatomical landmark is visible, and there are no instruments or foreign bodies in the image.",
+        "images": [
+            "/users/ms-swift/Images/3e6bb4a1-ce91-4021-90e9-36f443eec17b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is pink, with no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/94e47d85-ea52-4438-9817-f70f17cc9837.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark is pink in color, and there are no instruments in the image.",
+        "images": [
+            "/users/ms-swift/Images/9a38d436-d517-4567-a1a3-89d748670a36.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no visible abnormality, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark, which is the healthy mucosa, is a normal pink color. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/0ecbcefc-2fa0-4108-b560-1f779f2b3280.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is pink in color with no evident issues. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/eadfaf8f-884e-4702-8496-f48cdcd37389.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark shows no visible abnormalities or polyps. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The area appears healthy and normal.",
+        "images": [
+            "/users/ms-swift/Images/c05639d0-1f25-4f56-ada6-9623875a05aa.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, instruments, signs of inflammation, evidence of bleeding, foreign bodies, or infection. The anatomical landmark present is the pylorus.",
+        "images": [
+            "/users/ms-swift/Images/7e679490-9b55-4fbb-b98a-a5a612f737fb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality is seen in the image. The anatomical landmark is the pinkish mucosal surface. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/5b1b2b8a-fd6b-469d-82e6-4e107f90a37b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no noticeable polyps, abnormalities, signs of inflammation, infection, or bleeding. The image does not show any instruments or foreign bodies. The overall color is consistent with normal tissue tones, and no specific abnormalities can be observed.",
+        "images": [
+            "/users/ms-swift/Images/78e23433-bbbf-4765-870a-2e79c6e2aa0e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark appears normal in pink color, and no instruments or foreign bodies are present. There are no abnormalities or polyps.",
+        "images": [
+            "/users/ms-swift/Images/a42d31e8-573d-41d2-bee2-f7ccfb5b4201.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, signs of inflammation, bleeding, foreign bodies, or infection. The anatomical landmark is light pink, and there are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/af744492-dc36-4f70-95e8-9056c462eaca.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observable. The anatomical landmark visible is the mucosal surface, which is a normal pinkish color without further irregularities.",
+        "images": [
+            "/users/ms-swift/Images/e55c00fa-c254-4550-a2f3-5a7836f05c92.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is no small black foreign body. The surrounding anatomical landmark is pink in color. No polyps, signs of inflammation, infection, or bleeding are evident. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0d5e61ca-35c1-4bee-bf29-91ce3b2663ff.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, inflammation, signs of infection, or bleeding present. The anatomical landmark is pink, and no instruments or foreign bodies are observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/6d32ace1-ab3f-44a5-8d46-c238209b6a09.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/8a51742e-6308-4511-aedd-5d538f9feec9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There's no visible abnormality, polyp, inflammation, or infection. The anatomical landmark, a dark opening, is central. There are no instruments, signs of bleeding, or foreign bodies present. The image appears normal and free of concerning findings.",
+        "images": [
+            "/users/ms-swift/Images/a0ff8429-d667-4630-ab56-2286b1e3d74b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are anatomical landmarks present, but they look normal.No polyps, foreign bodies, signs of infection, inflammation or evidence of bleeding are evident. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/d7506dc7-132e-4534-a27a-53f1830dfaaf.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, bleeding, inflammation, foreign bodies, or signs of infection are present. The anatomical landmark, possibly the mucosa, is visible and pink in color. No instruments can be observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/7a3ee764-c145-47a7-9c73-dad26c5b20a3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are present. The visible anatomical landmark, which is the typical appearance of the gastrointestinal mucosa, is pinkish in color.",
+        "images": [
+            "/users/ms-swift/Images/db9401dd-706e-4518-aac8-1c036029114f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is light pink. There is no visible abnormality, polyps, instruments, inflammation, infection, bleeding, or foreign bodies present in the image.",
+        "images": [
+            "/users/ms-swift/Images/cd8e5484-c6cc-4bcc-822f-d8173de002b2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities. The surrounding tissue, which is the anatomical landmark, is normal pink mucosa. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/49bc98dc-7f74-4187-acd2-21ab2c620452.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmarks present are pinkish in color, and no instruments or polyps are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0fc0b0b8-2c5d-4fed-8254-a31562b6b1c6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. A yellow abnormality is present, and there is a small lesion suggestive of possible bleeding, located on the middle left. There are no polyps, instruments, signs of inflammation, infection, or foreign bodies in the image.",
+        "images": [
+            "/users/ms-swift/Images/ea510ea5-8697-4a6f-a86e-f8720c761e53.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. No abnormality is seen in the image. No polyps, foreign bodies, signs of infection or evidence of bleeding are evident.  There are signs of minor inflammation. There are no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/b381de8f-148c-4959-ae10-fbc07a0ff244.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmarks present are normal in color, and there are no foreign bodies or instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/5c02f74e-0e88-4335-869c-0f70b2918c85.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, if present, is reddish in color and located centrally. The anatomical landmark is also reddish. There are no polyps, instruments, foreign bodies, or evidence of bleeding or infection. Signs of inflammation are present.",
+        "images": [
+            "/users/ms-swift/Images/d1257c93-4ccf-40f6-b966-4cab0020790b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The anatomical landmark is pink. No polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies are present. The abnormality, if any, is yellow and scattered throughout, with no distinct polyps.",
+        "images": [
+            "/users/ms-swift/Images/698f130b-41ff-414d-908c-8d8c0f82d4a8_00001979.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no clearly identifiable polyps, instruments, foreign bodies, or anatomical landmarks. However, there are signs of inflammation and possible bleeding, as indicated by the red and irritated tissue. The area appears red and inflamed, suggesting possible infection or irritation.",
+        "images": [
+            "/users/ms-swift/Images/14485f21-3072-4820-b3e1-5fff4f85a753.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmarks are reddish-pink, and there is inflammation but there's no evidence of instruments, , bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/d29aaf86-a454-42c6-a7dc-9af3661538a3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no abnormalities. There are no visible polyps, anatomical landmarks, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/e730866b-c418-4229-abbf-c821e695fbb8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There is redness indicating inflammation and possible bleeding. No polyps or anatomical landmarks are visible. No instruments or foreign bodies are present. There are signs of inflammation and potential infection, evident by the abnormal reddish areas in the image.",
+        "images": [
+            "/users/ms-swift/Images/3bc00ca5-de83-453a-a03f-af036dfec795.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are fecal remains in the image. Anatomical landmarks are present, but no polyps or instruments are visible. There are signs of inflammation, but no foreign bodies,  bleeding  or signs of infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/1d1593ae-6e02-46de-9d95-9a9e4bd2270b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is pink, and there's a yellowish abnormality present centrally. There are no polyps, instruments, foreign bodies, signs of inflammation, infection, or bleeding evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/52a42285-8c36-43d1-a194-12219d7f09ed.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is an abnormality present which is white in color. The surrounding anatomical landmark is red. No polyps are visible. The abnormality is situated on the right. There are signs of inflammation but no evidence of bleeding, foreign bodies, or infection. No instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/2b01fd50-8d11-4cfa-825f-5aa971dae550.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The anatomical landmarks are flesh-colored. There are no evident abnormalities, polyps, instruments, bleeding, infection, or foreign bodies in the image. There are signs of inflammation.",
+        "images": [
+            "/users/ms-swift/Images/28615915-120a-4cb2-abdb-699e8b1ed85b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, likely inflammation, appears red, and the anatomical landmark is also visible but reddish. There are no polyps, bleeding, foreign bodies, infection signs, or instruments present in the image. The abnormality is centralized, displaying notable inflammation signs.",
+        "images": [
+            "/users/ms-swift/Images/759cb6da-cdac-4d4c-b5d8-deddd26c2f94.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality is present, appearing in a reddish color and located centrally. No polyps, instruments, foreign bodies, signs of inflammation, infection, or bleeding are visible. The anatomical landmark is the surrounding pinkish tissue of the organ being examined.",
+        "images": [
+            "/users/ms-swift/Images/33f881a3-c4fc-4401-b061-4d87b16d8b2c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The abnormality, characterized by inflammation, is widespread. There are no clear anatomical landmarks, instruments, signs of infection, or evidence of bleeding present in the image.",
+        "images": [
+            "/users/ms-swift/Images/8bdfdc98-79d7-4ddf-ba67-5a3ff8a9d19e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a dark-colored abnormality present near the bottom center of the image, along with red-colored areas suggestive of minor bleeding or inflammation. No polyps, anatomical landmarks, instruments, foreign bodies, or signs of infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/d82eb7f9-9988-42a2-8140-11f335d893cd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. Abnormalities are present. There's evidence of inflammation but no bleeding or infection signs. No polyps or foreign bodies are visible. An anatomical landmark is present, with no visible instruments.",
+        "images": [
+            "/users/ms-swift/Images/698f130b-41ff-414d-908c-8d8c0f82d4a8_00001902.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The image shows a reddish anatomical landmark, with no visible abnormalities, polyps, instruments, bleeding, or foreign bodies. but there are signs of infection or inflammation.",
+        "images": [
+            "/users/ms-swift/Images/bb3e96d0-7ec5-4116-bded-abe87a137f3f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, if present, is not distinctly colored, but there are no visible polyps, instruments or foreign bodies.The anatomical landmark is colon wall. Signs of inflammation and possible evidence of bleeding are present, but there are no definitive signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/8a156d87-4689-4786-ae5a-d9d6e1f0aefd.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. An abnormality is present with a color darker than the surrounding tissue and located centrally. No polyps, instruments, foreign bodies, or bleeding are observed. There's evidence of inflammation. No signs of infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/9bdda2b3-df46-441b-9675-8d8a92789c7d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is mostly pink. No polyps or instruments are visible. There are signs of inflammation but no evidence of bleeding, infection, or foreign bodies. The abnormality is located centrally in the image.",
+        "images": [
+            "/users/ms-swift/Images/e4fbe114-7e5e-4a0f-a856-ba2b39fb7b87.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a yellow-colored abnormality present in the center, with surrounding tissue appearing pinkish-brown. No polyp is observed. No signs of inflammation, bleeding, or infection. No instruments or foreign bodies are visible.",
+        "images": [
+            "/users/ms-swift/Images/50964a22-20e1-467a-8d12-f54bc4e9bc65.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There is a small red abnormality present, likely indicating minor bleeding or inflammation, and no polyps or foreign bodies are visible. The anatomical landmarks are discernible, and there are no signs of infection or instruments present.",
+        "images": [
+            "/users/ms-swift/Images/17b277d1-ffa1-4b77-abc1-75503bea4330.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. No abnormalities, polyps, bleeding, foreign bodies, or infections are visualized. The anatomical landmark visible is the normal mucosa, which is pink in color. No instruments are present in the image. There are signs of minor inflammation.",
+        "images": [
+            "/users/ms-swift/Images/5f667713-2300-42bc-b0a6-6e6406f210a7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality is not clearly identified, but the anatomical landmark is light brown. There are no visible polyps, instruments, bleeding, foreign bodies, or infection indicators in the image. There are signs of minor inflammation.",
+        "images": [
+            "/users/ms-swift/Images/c7203d20-f57a-406d-ae02-8a1331a703c1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark is pink in color, and no instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/29c4b403-3d24-4227-8c62-6cfd9ed3ba9b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The anatomical landmark appears pink. No polyps, abnormalities,  instruments, bleeding, foreign bodies, or infection are visible. The overall color of the tract wall is a healthy reddish-brown. There are signs of minor inflammation.",
+        "images": [
+            "/users/ms-swift/Images/b62924ca-ebf5-4b1c-91ad-b243ac724058.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality present is dark-colored, located centrally within the image, while the anatomical landmark is pink. There are no visible polyps, instruments, or foreign bodies. Signs of inflammation and bleeding are present, but there is no evidence of infection.",
+        "images": [
+            "/users/ms-swift/Images/02952327-2303-44da-99ed-9fc0525ff6eb.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. There are signs of minor inflammation. The anatomical landmark seems to be reddish-pink. There are no visible polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/940dd44e-98d4-4ca5-bc5d-d142a32e0d5e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The tissue appears reddish, with signs of mild inflammation and no visible polyps, foreign bodies, or instruments. There are no clear anatomical landmarks or evidence of infection or bleeding present.",
+        "images": [
+            "/users/ms-swift/Images/c5915729-6393-4728-8d18-79c6f5f00059.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality, if present, is red. No polyps, bleeding, foreign bodies, inflammation, infection, or instruments are visible. The anatomical landmark is also red. The abnormality, if any, is located in the colon wall.",
+        "images": [
+            "/users/ms-swift/Images/46705b13-80d7-41d1-8505-2d5e2f99065a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. The abnormality present appears to be reddish and yellowish in color. The anatomical landmark is the esophageaus lining. No polyps are visible, and there are no signs of foreign bodies, instruments, or bleeding. Inflammation and signs of infection are evident in the center of the image.",
+        "images": [
+            "/users/ms-swift/Images/698f130b-41ff-414d-908c-8d8c0f82d4a8_00001725.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The prominent abnormalities are located centrally with noticeable redness ceem like bleeding, but no evident polyps or foreign objects are present.",
+        "images": [
+            "/users/ms-swift/Images/584f1fa0-9bb9-49d3-b412-c42819d0a200_00002122.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. It shows an abnormality that is red in color. The same red color also indicates inflammation, and no explicit anatomical landmarks or instruments are visible. No polyps, bleeding, foreign bodies, or signs of infection are identified. ",
+        "images": [
+            "/users/ms-swift/Images/28db4e2a-2b48-43b7-88b2-5eaba2eb41f4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of cecum. The anatomical landmark is reddish in color, with no visible abnormalities, polyps, inflammation, or signs of infection. One instrument is observed in the center, and there is no evidence of bleeding or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/c1c58080-32ca-4458-a543-4e270284cd06.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. There are no visible abnormalities, polyps,There are small red spots that may be signs of inflammation , bleeding, infection, or foreign bodies. The color of the anatomical landmarks is generally pinkish. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/d85e5f0c-ec19-4787-9baa-258e7e30d97a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of colon. A yellow abnormality, indicative of inflammation or infection, is present. The anatomical landmark is reddish in color. No polyps or instruments are visible. There are signs of inflammation but no evidence of bleeding or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/0d4c9fce-f423-40bc-84ca-53f0fb570696.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of pylorus. The anatomical landmark is pink in color. There are no polyps, abnormalities, instruments, bleeding, infection, or foreign bodies present in the image. There are signs of inflammation.",
+        "images": [
+            "/users/ms-swift/Images/8f78862c-4c23-46b1-9282-9a01c26b18cc.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line.  The anatomical landmark is pink. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/bdbae2ac-53d3-4a73-9871-25d45241075a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no apparent abnormalities, inflammation, bleeding, foreign bodies, signs of infection, or instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/4a3f16dd-55b8-4019-ac9a-e23472a340e5.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmark is of a normal pinkish color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/b38a8d2e-821c-4ba1-8f08-f1e0b5dfef18.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no polyps present. The anatomical landmark is pink. There are no abnormalities. There are no instruments, signs of inflammation, bleeding, infection, or foreign bodies present.",
+        "images": [
+            "/users/ms-swift/Images/5a623300-3aa2-4b64-a96c-eb9b4bc7f3bf.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or infections. The anatomical landmark is a normal tissue structure, showing a healthy, pinkish hue, located centrally in the image.",
+        "images": [
+            "/users/ms-swift/Images/b50ca54a-203b-483e-92b6-d3a0b9d16ae1.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/a2df800d-77b7-48e8-8654-2e6170d4039f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical structure appears normal, without evident abnormalities, polyps, inflammation, bleeding, infection, or foreign bodies. No instruments are visible in the image. The anatomical landmark is pink in color, indicating healthy tissue.",
+        "images": [
+            "/users/ms-swift/Images/44d08bdd-1ec6-40b5-a58b-ec10b356290f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/6cbfa585-0241-44ff-9fa6-8ae55e9370c0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/b759c538-9404-4574-a279-e50b87a73d02.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection. There are anatomical landmarks visible, and the overall tissue color is pink.",
+        "images": [
+            "/users/ms-swift/Images/ac848959-22b3-4e8d-8806-36aa9a7e5b20.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, foreign bodies, inflammation, infection, or evidence of bleeding. The anatomical landmark present is the pink, healthy tissue of the gastrointestinal tract.",
+        "images": [
+            "/users/ms-swift/Images/4229de76-220d-4e0f-aaa6-2355f6f7689f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are abnormalities, no instruments, signs of inflammation, bleeding, foreign bodies, or infection present.",
+        "images": [
+            "/users/ms-swift/Images/5333196a-8bbd-4e3c-aadb-a06fc30de842.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormalities or polyps are present, and the only color seen is the reddish-pink of the anatomical structure.",
+        "images": [
+            "/users/ms-swift/Images/8483322e-cd32-4a86-9bab-2bc7babc2836.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormalities, polyps, inflammation, bleeding, signs of infection, or foreign bodies are observed. The area appears healthy with a pink color. There are no instruments found in the image and an anatomical landmark is clearly visible.",
+        "images": [
+            "/users/ms-swift/Images/8df94b72-a4e9-4f57-8387-41de82b68797.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The image does not show any abnormalities, polyps, inflammation, bleeding, foreign bodies, infection, or instruments. The visible anatomy appears normal without any identifiable landmarks or unusual coloration.",
+        "images": [
+            "/users/ms-swift/Images/936144be-2bd4-4cc5-9fe5-1d79b4edea25.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmark appears typically colored, with no foreign bodies or instruments present. The image does not indicate any abnormalities or polyps.",
+        "images": [
+            "/users/ms-swift/Images/ec4a1c71-a3c0-4b4c-b480-a4ce240559be.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/08c1a324-648c-437e-acb9-077632e1a2f8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no instruments present. The anatomical landmark visible appears pink, and there is no visible abnormality, polyps, inflammation, bleeding, or infection present.",
+        "images": [
+            "/users/ms-swift/Images/12fbe984-f5dd-479e-929b-6e71102c1993.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, or signs of inflammation, infection, or bleeding. The anatomical landmark appears pink. No instruments or foreign bodies are present.",
+        "images": [
+            "/users/ms-swift/Images/a9283458-102d-412f-abb4-866ad3ef2d0a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/d08203a8-8b74-4477-92b7-9724a0332f46.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no clear abnormality, polyps, instruments, evidence of bleeding or foreign bodies present. The anatomical landmark is pinkish in color, situated in the center. There are no signs of inflammation or infection noticeable in the image.",
+        "images": [
+            "/users/ms-swift/Images/18373b9c-6ba7-40d9-85be-3eef546664e6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmarks are visible, and the overall color is a healthy pink. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/28b257bc-dc3b-4a13-a22d-4006bb21f8c6.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/04f8da65-fbd9-4fb8-aadb-db942eceb836.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies observed. The anatomical landmark, likely part of the gastrointestinal tract, is visible and pink in color. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/77b7e00b-8c66-4427-a47d-09956d27f412.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmarks are pinkish in color. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present in the image.",
+        "images": [
+            "/users/ms-swift/Images/032d6b45-f706-444d-b4d9-c11a4df4d364.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no clear evidence of abnormalities, polyps, inflammation, bleeding, or infection. The anatomical landmark, squamocolunmar junction ,is pink, consistent with normal tissue appearance. No instruments or foreign bodies are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/0a3d11f8-f994-4b2b-9fb1-57e4e346861f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmarks appear normal in color, and no instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/31871e91-dd88-4955-9f36-9b0ec48aa9c8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no clear abnormality present, and the anatomical landmark, likely the esophageal or intestinal mucosa, is pink. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible.",
+        "images": [
+            "/users/ms-swift/Images/07aa47ce-3a72-4103-9b12-9e79acb737ba.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. Anatomical landmarks are visible without any polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection.",
+        "images": [
+            "/users/ms-swift/Images/ab7a446f-9a1b-4f13-9b11-dd6716e27d03.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormality is present. There are no polyps, signs of inflammation, infection, bleeding, or foreign bodies. Anatomical landmarks are visible, but no instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/9536e0b0-b962-4fe3-b693-310a0c0db514.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. showing reddish pink mucosa without signs of inflammation, mucosal break, erosions or ulcer, bleeding, polyps, foreign bodies or instruments. The anatomical landmark is squamocolumnar junction.",
+        "images": [
+            "/users/ms-swift/Images/cf1fb8ec-1802-4d9f-be8d-4a68cfffd5dc.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmarks are pink, and no abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/ada8eb56-748a-4066-bc95-ccf039c8621c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities or polyps present; the tissue appears uniformly colored and healthy pink. No anatomical landmarks, instruments, signs of inflammation, bleeding, infection, or foreign bodies are noticeable in the image.",
+        "images": [
+            "/users/ms-swift/Images/6bcc407d-02dd-4ea7-baba-5c137adad5e8.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is normal in color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/085620e8-555e-41ee-b407-85cfc5d7fdd0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities, with no anatomical landmarks or polyps visible. No instruments, inflammation, bleeding, foreign bodies, or signs of infection.",
+        "images": [
+            "/users/ms-swift/Images/d00e8f3e-c837-45b3-bb5a-bcb5ecd5b079.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No obvious abnormalities, polyps, or signs of inflammation or infection are present. The anatomical landmark is pinkish in color, located centrally. There are no instruments, bleeding, or foreign bodies observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/a7b7e2f0-5f29-496a-a40b-f7e0f239a806.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "The anatomical landmark of the Z-line shows pinkish mucosal folds. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies. ",
+        "images": [
+            "/users/ms-swift/Images/e581d6cc-5c8f-463e-9974-729e59b974db.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present in the image. The landmark is pink, and no abnormal colors are noted.",
+        "images": [
+            "/users/ms-swift/Images/14c69009-c72a-4595-becb-1909bd675468.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are present. The anatomical landmark, the esophagus, is visible and normal in color. No instruments are seen in the image.",
+        "images": [
+            "/users/ms-swift/Images/64f6b6f9-5256-432a-a101-383be6b0957e.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, or foreign bodies. The anatomical landmark is light pink. No instruments or signs of inflammation, infection, or bleeding are present. Abnormality location is not applicable.",
+        "images": [
+            "/users/ms-swift/Images/a5cbdf35-20ca-4e13-a127-de18e4b3be67.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The image shows an anatomical landmark, which is predominantly pink. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/d7ae6930-e393-460c-8e0c-19414dada5a9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality, inflammation, bleeding, infection, foreign bodies, or polyps present. The visible area appears to be normal, and the anatomical landmark is pinkish in color. There are no instruments present in the image.",
+        "images": [
+            "/users/ms-swift/Images/8af7f67c-5221-4efa-824a-bfd4ade610da.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies are seen. The anatomical landmark, likely the esophageal sphincter, appears normal in color. No instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/c934e9b7-8abf-4176-ac89-efad4f8e1cb7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/e9e2b847-7deb-488a-8a09-948b9f3bc31c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection present. The anatomical landmark is pink in color.",
+        "images": [
+            "/users/ms-swift/Images/5331e0e9-0317-49af-aa92-9b07cb996e21.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. Anatomical landmarks are present and consistent in color, with no instruments visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/2e111451-f071-4bf9-b88b-08ea9b972051.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, infection, bleeding, or foreign bodies present. The anatomical landmark is primarily pink in color and spans the entire field. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/73433e34-3924-4b86-8ffb-693aaea48a76.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality, polyp, sign of inflammation, bleeding, infection, or foreign bodies. An anatomical landmark is present, which is pink in color. No instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/07496b78-a571-4e40-aefd-a3764fc213c9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no clear abnormality present, and the anatomical structures appear normal in color. There are no polyps, signs of inflammation, bleeding, foreign bodies, or infection visible in the image, and no medical instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/2f36e72b-e789-4649-9054-fda57ed295d7.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark present is typical for such a procedure, and no instruments are visible. The colors are primarily shades of pink and normal mucosa tones.",
+        "images": [
+            "/users/ms-swift/Images/f8e9f8ad-bae1-4f57-82c2-b13e72bfffad.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line There are no polyps, instruments, foreign bodies, or signs of infection or bleeding present. There is no abnormalities, with no evidence of inflammation observed in the image.",
+        "images": [
+            "/users/ms-swift/Images/4c5f4e85-adea-4fc5-9270-32d94f6cd10c.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark visible is pink in color. No instruments are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/6b8079f4-d5a0-4b9f-8352-8c1e65171209.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmark is a pink smooth tissue. There is no polyp present. No instruments, signs of inflammation, bleeding, foreign bodies, or infection are observed.",
+        "images": [
+            "/users/ms-swift/Images/2c8b339b-4c9f-4540-9133-f2052aa778a3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection. The anatomical landmarks present are of normal color and the overall appearance is typical of a healthy internal body structure.",
+        "images": [
+            "/users/ms-swift/Images/e2a2e51a-acf8-4cdf-b0aa-9a33073fea11.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no polyps, instruments, foreign bodies, or signs of infection detected. Visible anatomical landmarks blend with the tissue, and there is no evidence of bleeding.",
+        "images": [
+            "/users/ms-swift/Images/add68477-a0e2-438d-a276-cf96843d3ab3.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The visible anatomical landmark is pinkish in color, and there appears to be a single polyp present. The polyp is light-colored and located to the right of the anatomical landmark. No obvious signs of inflammation, bleeding, or infection, and no foreign bodies or instruments are visible.",
+        "images": [
+            "/users/ms-swift/Images/8af72668-b751-4669-b063-ec383c2d4065.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The image reveals no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or infections. The anatomical structures appear to be of normal color, and no instruments are detected. Everything seems to be normal and healthy within the viewed area.",
+        "images": [
+            "/users/ms-swift/Images/56c44896-38ee-4f7a-ac7c-d2c5140e162a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, evidence of bleeding, or foreign bodies present. The anatomical landmark, likely the opening to the esophagus, is a natural pinkish color. No instruments or signs of infection are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/ec60836c-70fa-40d6-932f-d1d26ac67b5b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There don't appear to be any abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmark is pink, no instruments or foreign bodies are visible. ",
+        "images": [
+            "/users/ms-swift/Images/60b487ce-0101-461b-830a-e87ac7ea0f96.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are observable. The anatomical landmark, is predominantly pink in color. ",
+        "images": [
+            "/users/ms-swift/Images/a3142ab8-366d-4c6a-8004-d793a335398f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies. The anatomical landmark, likely part of the esophagus, is pink in color and the image overall does not show any unusual findings.",
+        "images": [
+            "/users/ms-swift/Images/c1da34c4-89e8-4318-8525-0a5f83af40da.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities, polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infection evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/1daaec2c-e727-4598-84db-89fee251cdb9.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality, polyps, instruments, foreign bodies, signs of inflammation, bleeding, or infection. Additionally, no specific anatomical landmarks are identifiable in the image. The general tissue color appears normal.",
+        "images": [
+            "/users/ms-swift/Images/14194356-2f15-451c-bd8b-2afb44291f79.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no polyps. The anatomical landmark is also pink. No instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible. ",
+        "images": [
+            "/users/ms-swift/Images/9f09d34c-13e0-425a-a20f-32e72f7e8223.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmark is predominantly pink in color and irregular in shape, indicating normal tissue, and no noteworthy deviations are detected.",
+        "images": [
+            "/users/ms-swift/Images/31174cbb-320b-47f1-9fa3-f5c52e29e75d.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There's no clear presence of an abnormality, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmark appears normal, and no instruments are visible in the image.",
+        "images": [
+            "/users/ms-swift/Images/1b7077c7-23b4-45b8-856d-177da438d215.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no obvious abnormalities present, and the anatomical landmarks appear to be a normal color. There are no visible polyps, instruments, signs of inflammation, bleeding, foreign bodies, or infections in the image.",
+        "images": [
+            "/users/ms-swift/Images/cc33f8fe-483c-4f76-8a00-1e28d52b81f2.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, signs of inflammation, bleeding, or infection. The anatomical landmark, likely part of the esophagus or stomach, is pink in color. No instruments or foreign bodies are present in the image.",
+        "images": [
+            "/users/ms-swift/Images/7974ec23-9b7e-432b-ac1e-cc8cef163116.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The coloring appears to be normal with no apparent abnormalities, polyps, signs of inflammation, bleeding, infection, or foreign bodies. There are no instruments visible, and the anatomical landmarks are presented in healthy pink tissue.",
+        "images": [
+            "/users/ms-swift/Images/b1f18521-1d22-4386-ac96-3bf527e52e1a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No instruments, signs of inflammation, bleeding, or infection are visible.  No foreign bodies are seen.",
+        "images": [
+            "/users/ms-swift/Images/7447e47f-5ee0-44b9-883c-fa902fbeab76.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line.The anatomical landmark is pink. No polyps are visible. No abnormalities, inflammation, infection, polyps, bleeding, foreign bodies, or instruments are identified.",
+        "images": [
+            "/users/ms-swift/Images/2be81e7b-fae7-45ed-b2b2-60558133f020.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "The anatomical landmark of the squamocolumnar junction aka z-line is normal. There are no visible signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/5cd67106-cc61-4927-bee1-d57cb8da8e09.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmark is light pink. There are no signs of inflammation, bleeding, infection, or foreign bodies present in the image.",
+        "images": [
+            "/users/ms-swift/Images/fbc503b8-4193-4c52-ae5e-67f381f88322.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "The anatomical landmark of z-line is normal. There are no visible signs of inflammation, mucosal breaks, erosions or ulcers, bleeding, polyps, instruments or foreign bodies.",
+        "images": [
+            "/users/ms-swift/Images/6a89b8a3-f536-43ed-ad2e-062de1454022.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. No abnormalities are present. The anatomical landmark, the esophagus, has a normal pink color. No polyps, instruments, bleeding, foreign bodies, or signs of inflammation or infection are apparent in the image.",
+        "images": [
+            "/users/ms-swift/Images/26448507-327e-4d44-ae6f-af212c1187c0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmarks are pink, and there are no visible polyps, abnormalities, signs of inflammation, bleeding, foreign bodies, or infection. No instruments can be seen in the image.",
+        "images": [
+            "/users/ms-swift/Images/e5740c97-cdbc-4e19-b1de-f60eaa488dee.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. irregular in shape. There is no noticeable abnormality, polyps, anatomical landmarks, instruments, foreign bodies, inflammation, infection, or bleeding present. The overall appearance of the tissue looks normal without any significant findings.",
+        "images": [
+            "/users/ms-swift/Images/43ca657f-4a00-4700-89b4-17e47b9c9d84.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is no visible abnormality, polyps, instruments, signs of inflammation, bleeding, infection, or foreign bodies present. The anatomical landmarks are light pink. ",
+        "images": [
+            "/users/ms-swift/Images/b875ee51-1205-4385-ab4c-89562452bcc4.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": " An image of z-line. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are visible. The main anatomical landmark seems to be the mucosal surface of the esophagus.",
+        "images": [
+            "/users/ms-swift/Images/b7844b2a-5a9c-44a8-8081-fd33ef7074f0.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There is an abnormality present which is reddish in color. The anatomical landmark is pink and appears normal. No polyps, instruments, inflammation, bleeding, foreign bodies, or signs of infection are evident in the image.",
+        "images": [
+            "/users/ms-swift/Images/7ce0952c-c19a-4bff-b26f-de6041f959df.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no visible abnormalities, polyps, inflammation, bleeding, foreign bodies, or signs of infection. The anatomical landmark is pinkish, and no instruments are present.",
+        "images": [
+            "/users/ms-swift/Images/4a610269-864c-47ef-8643-31027c83500a.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities, polyps, instruments, signs of inflammation, bleeding, or infection present. The anatomical landmark is pink in color.",
+        "images": [
+            "/users/ms-swift/Images/613e86f9-69ad-484d-bce0-89c1e4967d6f.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. The anatomical landmark is pink; there are no instruments visible in the image. No abnormalities are present.",
+        "images": [
+            "/users/ms-swift/Images/d1d0ee22-0d41-425a-85a3-4a26a11c5c8b.jpg"
+        ]
+    },
+    {
+        "query": "<image>\nDescribe the gastrointestinal image in brief. Try to limit the response within in 60 words.",
+        "response": "An image of z-line. There are no abnormalities, the anatomical landmark shows normal tissue without any polyps. There are no visible abnormalities, instruments, signs of inflammation, bleeding, foreign bodies, or infection in the image.",
+        "images": [
+            "/users/ms-swift/Images/fb2c8f30-734e-443f-a5b5-aeefac4f74b6.jpg"
+        ]
+    }
+]
