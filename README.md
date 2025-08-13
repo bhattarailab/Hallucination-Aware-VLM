@@ -85,10 +85,14 @@ We evaluate our hallucination-aware fine-tuning strategy across various open-sou
 
 The evaluation scripts are located in the `eval_scripts/` directory. The evaluation process consists of two evaluation methods:
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
 ### 📝 QA-Based Evaluation (QAAS)
 
 ```mermaid
-flowchart LR
+flowchart TD
     classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
@@ -114,10 +118,14 @@ flowchart LR
     linkStyle 3 stroke:#388E3C,stroke-width:3px
 ```
 
+</div>
+
+<div style="width: 48%;">
+
 ### 📝 Report Similarity Evaluation (R-Sim)
 
 ```mermaid
-flowchart LR
+flowchart TD
     classDef inputStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef scriptStyle fill:#FFF3E0,stroke:#F57C00,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
     classDef outputStyle fill:#E8F5E8,stroke:#388E3C,stroke-width:3px,color:#000,font-weight:bold,font-size:12px
@@ -136,6 +144,10 @@ flowchart LR
     linkStyle 0 stroke:#1976D2,stroke-width:3px
     linkStyle 1 stroke:#388E3C,stroke-width:3px
 ```
+
+</div>
+
+</div>
 
 ### Citation:
 
