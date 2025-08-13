@@ -85,10 +85,6 @@ We evaluate our hallucination-aware fine-tuning strategy across various open-sou
 
 The evaluation scripts are located in the `eval_scripts/` directory. The evaluation process consists of two evaluation methods:
 
-<div style="display: flex; gap: 20px;">
-
-<div style="flex: 1;">
-
 ### 📝 QA-Based Evaluation (QAAS)
 
 ```mermaid
@@ -118,10 +114,6 @@ flowchart TD
     linkStyle 3 stroke:#388E3C,stroke-width:3px
 ```
 
-</div>
-
-<div style="flex: 1;">
-
 ### 📝 Report Similarity Evaluation (R-Sim)
 
 ```mermaid
@@ -144,10 +136,6 @@ flowchart TD
     linkStyle 0 stroke:#1976D2,stroke-width:3px
     linkStyle 1 stroke:#388E3C,stroke-width:3px
 ```
-
-</div>
-
-</div>
 
 ### Citation:
 
