@@ -154,12 +154,12 @@ flowchart TD
 #### Cite our work in your research as follows:
 
 ```bibtex
-@article{khanal2025hallucination,
+@inproceedings{khanal2025hallucination,
   title={Hallucination-Aware Multimodal Benchmark for Gastrointestinal Image Analysis with Large Vision-Language Models},
   author={Khanal, Bidur and Pokhrel, Sandesh and Bhandari, Sanjay and Rana, Ramesh and Shrestha, Nikesh and Gurung, Ram Bahadur and Linte, Cristian and Watson, Angus and Shrestha, Yash Raj and Bhattarai, Binod},
-  journal={arXiv preprint arXiv:2505.07001},
+  booktitle={MICCAI},
   year={2025},
-  Note = {Accepted at MICCAI 2025}
+  Note = {Early Accept and Spotlight Presentation}
 }
 
 ```
